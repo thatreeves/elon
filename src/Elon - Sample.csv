@@ -1,0 +1,44 @@
+ID,Date,Date - Clean,Content,ConvoID,Sender,Participants
+1,2022-01-21 23:09:53 ( CST ),2022-01-21 23:09:53,"Elon - are you able to access your Twitter account ok ? I saw a number of emails held in spam .
+Including some password resets attempts",2,Alex Stillings,"Alex Stillings, Self"
+2,2022-01-21 23:17:30 ( CST ),2022-01-21 23:17:30,I haven't tried recently,2,Self,"Alex Stillings, Self"
+3,2022-01-21 23:17:41 ( CST ),2022-01-21 23:17:41,Am staying off twitter,2,Self,"Alex Stillings, Self"
+4,2022-01-21 23:17:59 ( CST ),2022-01-21 23:17:59,Is my twitter account posting anything ?,2,Self,"Alex Stillings, Self"
+5,2022-01-21 23:19:31 ( CST ),2022-01-21 23:19:31,"Not posting but I see one deactivation email and a dozen password reset emails . Assuming
+this is a scammer attempt but wanted to check to ensure you still had access to your Twitter",2,Alex Stillings,"Alex Stillings, Self"
+6,2022-01-21 23:19:52 ( CST ),2022-01-21 23:19:52,It is someone trying to hack my twitter,2,Self,"Alex Stillings, Self"
+7,2022-01-21 23:20:05 ( CST ),2022-01-21 23:20:05,But I have two - factor enabled with the confirmation app,2,Self,"Alex Stillings, Self"
+8,2022-01-21 23:21:43 ( CST ),2022-01-21 23:21:43,"OK , great to hear .",2,Alex Stillings,"Alex Stillings, Self"
+9,2022-01-24 19:18:07 ( CST ),2022-01-24 19:18:07,"Yes - FaceTimed with them to confirm my identity ( hah ) and they are hopefully gonna reset
+your ZFA to SMS soon . Asking for an update now",2,Alex Stillings,"Alex Stillings, Self"
+10,2022-01-24 19:21:36 ( CST ),2022-01-24 19:21:36,Sounds good,2,Self,"Alex Stillings, Self"
+11,2022-01-24 19:21:47 ( CST ),2022-01-24 19:21:47,I can also FaceTime with them if still a problem,2,Self,"Alex Stillings, Self"
+12,2022-01-24 20:03:55 ( CST ),2022-01-24 20:03:55,"Tldr ; your account is considered high profile internally over there . So they've made it very
+hard to make changes like this by their teams . They are working through it ....",2,Alex Stillings,"Alex Stillings, Self"
+13,2022-01-24 20:05:28 ( CST ),2022-01-24 20:05:28,Happy to FaceTime directly,2,Self,"Alex Stillings, Self"
+14,2022-01-24 20:13:38 ( CST ),2022-01-24 20:13:38,"Not sure how I was able to make Twitter work on this new phone , as I didn't use the backup
+code .",2,Self,"Alex Stillings, Self"
+15,2022-01-24 20:14:43 ( CST ),2022-01-24 20:14:43,Connecting with their head of Trust & Safety now,2,Alex Stillings,"Alex Stillings, Self"
+16,2022-01-24 20:14:59 ( CST ),2022-01-24 20:14:59,"I assume we used your old phone to verify the new , once upon a time",2,Alex Stillings,"Alex Stillings, Self"
+17,2022-01-24 20:38:37 ( CST ),2022-01-24 20:38:37,Oh yeah,2,Self,"Alex Stillings, Self"
+18,2022-01-24 20:57:33 ( CST ),2022-01-24 20:57:33,"They can fix it by disabling all 2FA for your account which will let you in and then you can re
+enable it . Are you available in 90 mins to have them coordinate it ?",2,Alex Stillings,"Alex Stillings, Self"
+19,2022-01-24 20:58:09 ( CST ),2022-01-24 20:58:09,"Liked "" They can fix it by disabling all 2FA for your account which will let you in and then you
+can re - enable it . Are you available in 90 mins to have them coordinate it ? """,2,Self,"Alex Stillings, Self"
+20,2022-01-24 21:07:11 ( CST ),2022-01-24 21:07:11,"I know things are in flux right now , but is EMDesk SpaceX still your primary calendar ? I realize
+there a meeting on there in 1 hour . In case I should move this twitter fix out a bit .",2,Alex Stillings,"Alex Stillings, Self"
+21,2022-01-24 21:35:41 ( CST ),2022-01-24 21:35:41,Yeah,2,Self,"Alex Stillings, Self"
+22,2022-01-24 21:36:08 ( CST ),2022-01-24 21:36:08,But I can step off the call briefly to FaceTime them if need be,2,Self,"Alex Stillings, Self"
+23,2022-01-24 21:40:48 ( CST ),2022-01-24 21:40:48,"Sounds good . And ideally I'm just texting you to sign in once they disable 2FA and then you
+can immediately sign in and re - enable . No FaceTime needed .",2,Alex Stillings,"Alex Stillings, Self"
+24,2022-01-24 21:58:28 ( CST ),2022-01-24 21:58:28,"Liked "" Sounds good . And ideally I'm just texting you to sign in once they disable 2FA and then
+you can immediately sign in and re - enable . No FaceTime needed . """,2,Self,"Alex Stillings, Self"
+25,2022-01-24 22:33:16 ( CST ),2022-01-24 22:33:16,Elon- we are ready to make the change if you are,2,Alex Stillings,"Alex Stillings, Self"
+26,2022-01-24 22:35:02 ( CST ),2022-01-24 22:35:02,"Liked "" Elon - we are ready to make the change if you are """,2,Self,"Alex Stillings, Self"
+27,2022-01-24 22:36:04 ( CST ),2022-01-24 22:36:04,2FA disabled . Please try to log in now,2,Alex Stillings,"Alex Stillings, Self"
+28,2022-01-24 22:40:56 ( CST ),2022-01-24 22:40:56,Able to get back in ok ?,2,Alex Stillings,"Alex Stillings, Self"
+29,2022-01-24 22:50:51 ( CST ),2022-01-24 22:50:51,"Liked "" Able to get back in ok ? """,2,Self,"Alex Stillings, Self"
+30,2022-01-24 22:51:39 ( CST ),2022-01-24 22:51:39,And once in you can enable 2FA Settings > Security and account access > Security > 2FA,2,Alex Stillings,"Alex Stillings, Self"
+31,2022-01-24 22:51:47 ( CST ),2022-01-24 22:51:47,App only is suggested,2,Alex Stillings,"Alex Stillings, Self"
+32,2022-01-24 22:55:33 ( CST ),2022-01-24 22:55:33,Thanks !,2,Self,"Alex Stillings, Self"
+33,2022-01-24 23:00:29 ( CST ),2022-01-24 23:00:29,And reminder to save that backup code,2,Alex Stillings,"Alex Stillings, Self"
