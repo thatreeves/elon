@@ -1,7 +1,6 @@
 module.exports = {
-  content: ['./index.html'],
-  presets: [],
-  theme: {
-  },
-  plugins: [],
+  content: [
+    './**/*.html'
+  ],
+  plugins: [require('prettier-plugin-tailwindcss')],
 }

@@ -8,12 +8,13 @@
     border-radius: 0.25rem;
     display: flex;
     flex-direction: column;
-    font-family: "SanFrancisco";
-    font-size: 1.25rem;
+    font-family: "SF Pro Display";
+    font-size: 1.1rem;
     margin: 0 auto 1rem;
     max-width: 600px;
-    padding: 0.5rem 1.5rem;
-    max-height: 2000px;
+    padding: 0.0rem 1.5rem 0.5rem 1.5rem;
+    /* max-height: 2000px; */
+    max-height: 90vh;
     overflow: auto
   }
   
@@ -119,16 +120,19 @@
   }
   
   
-  
+body{
+    font-family: 'SF Pro Display';
+}
   
   
   /* general styling */
-  @font-face {
+  /* @font-face {
     font-family: "SanFrancisco";
     src:
       url("https://cdn.rawgit.com/AllThingsSmitty/fonts/25983b71/SanFrancisco/sanfranciscodisplay-regular-webfont.woff2") format("woff2"),
       url("https://cdn.rawgit.com/AllThingsSmitty/fonts/25983b71/SanFrancisco/sanfranciscodisplay-regular-webfont.woff") format("woff");
-  }
+  } */
+
   
 
 
