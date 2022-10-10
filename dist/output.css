@@ -632,6 +632,10 @@ video {
   margin-bottom: 2.5rem;
 }
 
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
 }
@@ -652,6 +656,14 @@ video {
   height: 3rem;
 }
 
+.h-full {
+  height: 100%;
+}
+
+.h-\[90vh\] {
+  height: 90vh;
+}
+
 .max-h-\[90vh\] {
   max-height: 90vh;
 }
@@ -662,6 +674,10 @@ video {
 
 .max-h-12 {
   max-height: 3rem;
+}
+
+.min-h-\[90vh\] {
+  min-height: 90vh;
 }
 
 .w-full {
@@ -698,6 +714,10 @@ video {
 
 .max-w-\[\'600px\'\] {
   max-width: '600px';
+}
+
+.grow {
+  flex-grow: 1;
 }
 
 .flex-row {

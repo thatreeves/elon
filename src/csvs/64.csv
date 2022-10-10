@@ -1,11 +1,11 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-608,| 2022-04-27 21:30:47 ( CDT ),| 2022-04-27 21:30:47 ,From a social perspective - Twitter allowing for high quality video uploads ( 1080p at a
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+608,| 2022-04-27 21:30:47 ( CDT ),| 2022-04-27 21:30:47 ,64,"From a social perspective - Twitter allowing for high quality video uploads ( 1080p at a
 minimum ) & adding a basic in - app video editor would have quite a big impact I think .
 Especially useful for citizen journalism & fun educational content . Might even help Twitter
-regain market share lost to TikTok,64,Viv Hantusch,"Viv Hantusch, Self",,"Viv Hantusch, Self",,
-610,2022-04-27 21:31:12 ( CDT ),44678.89666666667,Agreed,64,Self,"Viv Hantusch, Self",,"Viv Hantusch, Self",,
-611,2022-04-27 21:31:40 ( CDT ),44678.89699074074,"Twitter can't monetize video yet , so video is a loss for Twitter and for the those who post",64,Self,"Viv Hantusch, Self",,"Viv Hantusch, Self",,
-612,2022-04-27 21:31:56 ( CDT ),44678.89717592593,Twitter needs better guidance,64,Self,"Viv Hantusch, Self",,"Viv Hantusch, Self",,
-615,2022-04-27 21:35:22 ( CDT ),44678.899560185186,"Yeah , 100 %",64,Viv Hantusch,"Viv Hantusch, Self",,"Viv Hantusch, Self",,
-617,2022-04-27 21:37:55 ( CDT ),44678.90133101852,They should have a subscription that's actually useful ( unlike Twitter Blue haha ),64,Viv Hantusch,"Viv Hantusch, Self",,"Viv Hantusch, Self",,
-620,2022-04-27 21:40:36 ( CDT ),44678.90319444444,Totally,64,Self,"Viv Hantusch, Self",,"Viv Hantusch, Self",,
+regain market share lost to TikTok",Viv Hantusch,"Viv Hantusch, Self",No,Viv Hantusch
+610,2022-04-27 21:31:12 ( CDT ),44678.89667,64,Agreed,Self,"Viv Hantusch, Self",No,Viv Hantusch
+611,2022-04-27 21:31:40 ( CDT ),44678.89699,64,"Twitter can't monetize video yet , so video is a loss for Twitter and for the those who post",Self,"Viv Hantusch, Self",No,Viv Hantusch
+612,2022-04-27 21:31:56 ( CDT ),44678.89718,64,Twitter needs better guidance,Self,"Viv Hantusch, Self",No,Viv Hantusch
+615,2022-04-27 21:35:22 ( CDT ),44678.89956,64,"Yeah , 100 %",Viv Hantusch,"Viv Hantusch, Self",No,Viv Hantusch
+617,2022-04-27 21:37:55 ( CDT ),44678.90133,64,They should have a subscription that's actually useful ( unlike Twitter Blue haha ),Viv Hantusch,"Viv Hantusch, Self",No,Viv Hantusch
+620,2022-04-27 21:40:36 ( CDT ),44678.90319,64,Totally,Self,"Viv Hantusch, Self",No,Viv Hantusch

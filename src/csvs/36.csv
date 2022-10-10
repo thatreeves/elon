@@ -1,5 +1,5 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-213,2022-04-04 16:36:50 ( CDT ),44655.692245370374,Are you going to liberate Twitter from the censorship happy mob ?,36,Joe Rogan,"Joe Rogan, Self",1,"Joe Rogan, Self",,
-214,2022-04-04 16:43:23 ( CDT ),44655.69679398148,"I will provide advice , which they may or may not choose to follow",36,Self,"Joe Rogan, Self",1,"Joe Rogan, Self",,
-459,2022-04-23 18:09:50 ( CDT ),44674.75682870371,"I REALLY hope you get Twitter . If you do , we should throw a hell of a party .",36,Joe Rogan,"Joe Rogan, Self",,"Joe Rogan, Self",,
-460,2022-04-23 18:11:56 ( CDT ),44674.75828703704,100,36,Self,"Joe Rogan, Self",,"Joe Rogan, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+213,2022-04-04 16:36:50 ( CDT ),44655.69225,36,Are you going to liberate Twitter from the censorship happy mob ?,Joe Rogan,"Joe Rogan, Self",No,Joe Rogan
+214,2022-04-04 16:43:23 ( CDT ),44655.69679,36,"I will provide advice , which they may or may not choose to follow",Self,"Joe Rogan, Self",No,Joe Rogan
+459,2022-04-23 18:09:50 ( CDT ),44674.75683,36,"I REALLY hope you get Twitter . If you do , we should throw a hell of a party .",Joe Rogan,"Joe Rogan, Self",No,Joe Rogan
+460,2022-04-23 18:11:56 ( CDT ),44674.75829,36,100,Self,"Joe Rogan, Self",No,Joe Rogan

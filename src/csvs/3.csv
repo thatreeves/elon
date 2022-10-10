@@ -1,16 +1,16 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-35,2022-03-05 02:06:44 ( CST ),44625.088009259256,Wow ... I saw your tweet re free speech . Wtf is going on Elon ...,3,Antonio Gracias,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-36,2022-03-05 02:07:43 ( CST ),44625.088692129626,EU passed a law banning Russia Today and several other Russian news sources . We have been
-told to block their IP address .,3,Self,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-37,2022-03-05 02:08:02 ( CST ),44625.088912037034,"Actually , I find their news quite entertaining",3,Self,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-38,2022-03-05 02:08:35 ( CST ),44625.08929398148,"Lot of bullshit , but some good points too",3,Self,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-39,2022-03-05 02:08:50 ( CST ),44625.089467592596,This is fucking nuts ... you are totally right . I 100 % agree with you .,3,Antonio Gracias,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-40,2022-03-05 02:09:39 ( CST ),44625.09003472222,We should allow it precisely bc we hate it ... that is the ping of the American constitution .,3,Antonio Gracias,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-41,2022-03-05 02:09:47 ( CST ),44625.09012731481,Exactly,3,Self,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-42,2022-03-05 02:10:02 ( CST ),44625.09030092593,Free speech matters most when it's someone you hate spouting what you think is bullshit .,3,Self,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-43,2022-03-05 02:11:30 ( CST ),44625.091319444444,I am 100 % with you Elon . To the fucking mattresses no matter what ..... this is a principle we
-need to fucking defend with our lives or we are lost to the darkness .,3,Antonio Gracias,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-44,2022-03-05 02:12:38 ( CST ),44625.09210648148,Sorry for the swearing . I am getting excited .,3,Antonio Gracias,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-45,2022-03-05 02:12:55 ( CST ),44625.09230324074,Loved "I am 100 % with you Elon. To the fucking mattresses no matter what .... this is a principle we need to fucking defend with our lives or we are lost to the darkness . ",3,Self,"Antonio Gracias, Self",1,"Antonio Gracias, Self",,
-587,2022-04-26 20:02:22 ( CDT ),44677.83497685185,On a call . Free in " 30 mins .,3,Self,"Antonio Gracias, Self",,"Antonio Gracias, Self",,
-589,2022-04-26 20:24:15 ( CDT ),44677.850173611114,Ok . I'll call you in 30,3,Antonio Gracias,"Antonio Gracias, Self",,"Antonio Gracias, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+35,2022-03-05 02:06:44 ( CST ),44625.08801,3,Wow ... I saw your tweet re free speech . Wtf is going on Elon ...,Antonio Gracias,"Antonio Gracias, Self",No,Antonio Gracias
+36,2022-03-05 02:07:43 ( CST ),44625.08869,3,"EU passed a law banning Russia Today and several other Russian news sources . We have been
+told to block their IP address .",Self,"Antonio Gracias, Self",No,Antonio Gracias
+37,2022-03-05 02:08:02 ( CST ),44625.08891,3,"Actually , I find their news quite entertaining",Self,"Antonio Gracias, Self",No,Antonio Gracias
+38,2022-03-05 02:08:35 ( CST ),44625.08929,3,"Lot of bullshit , but some good points too",Self,"Antonio Gracias, Self",No,Antonio Gracias
+39,2022-03-05 02:08:50 ( CST ),44625.08947,3,This is fucking nuts ... you are totally right . I 100 % agree with you .,Antonio Gracias,"Antonio Gracias, Self",No,Antonio Gracias
+40,2022-03-05 02:09:39 ( CST ),44625.09003,3,We should allow it precisely bc we hate it ... that is the ping of the American constitution .,Antonio Gracias,"Antonio Gracias, Self",No,Antonio Gracias
+41,2022-03-05 02:09:47 ( CST ),44625.09013,3,Exactly,Self,"Antonio Gracias, Self",No,Antonio Gracias
+42,2022-03-05 02:10:02 ( CST ),44625.0903,3,Free speech matters most when it's someone you hate spouting what you think is bullshit .,Self,"Antonio Gracias, Self",No,Antonio Gracias
+43,2022-03-05 02:11:30 ( CST ),44625.09132,3,"I am 100 % with you Elon . To the fucking mattresses no matter what ..... this is a principle we
+need to fucking defend with our lives or we are lost to the darkness .",Antonio Gracias,"Antonio Gracias, Self",No,Antonio Gracias
+44,2022-03-05 02:12:38 ( CST ),44625.09211,3,Sorry for the swearing . I am getting excited .,Antonio Gracias,"Antonio Gracias, Self",No,Antonio Gracias
+45,2022-03-05 02:12:55 ( CST ),44625.0923,3,"Loved ""I am 100 % with you Elon. To the fucking mattresses no matter what .... this is a principle we need to fucking defend with our lives or we are lost to the darkness . """,Self,"Antonio Gracias, Self",No,Antonio Gracias
+587,2022-04-26 20:02:22 ( CDT ),44677.83498,3,"On a call . Free in "" 30 mins .",Self,"Antonio Gracias, Self",No,Antonio Gracias
+589,2022-04-26 20:24:15 ( CDT ),44677.85017,3,Ok . I'll call you in 30,Antonio Gracias,"Antonio Gracias, Self",No,Antonio Gracias

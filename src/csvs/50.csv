@@ -1,10 +1,10 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-480,2022-04-23 21:24:24 ( CDT ),44674.89194444445,Want to be a strategic advisor to Twitter if this works out ?,50,Self,"Mike Pop, Self",,"Mike Pop, Self",,
-494,2022-04-23 22:01:45 ( CDT ),44674.91788194444,For sure,50,Mike Pop,"Mike Pop, Self",,"Mike Pop, Self",,
-495,2022-04-23 22:01:58 ( CDT ),44674.918032407404,defiantly things can be better and more culturally engaged,50,Mike Pop,"Mike Pop, Self",,"Mike Pop, Self",,
-496,2022-04-23 22:19:30 ( CDT ),44674.93020833333,I think you're in a unique position to broker better Al to detect bots the second they pop up,50,Mike Pop,"Mike Pop, Self",,"Mike Pop, Self",,
-497,2022-04-23 22:23:13 ( CDT ),44674.93278935185,Liked " I think you're in a unique position to broker better Al to detect bots the second they
-pop up ",50,Self,"Mike Pop, Self",,"Mike Pop, Self",,
-562,2022-04-26 13:33:39 ( CDT ),44677.565034722225,When do I start boss,50,Mike Pop,"Mike Pop, Self",,"Mike Pop, Self",,
-563,2022-04-26 13:38:02 ( CDT ),44677.568078703705,It will take at least a few months to close the deal,50,Self,"Mike Pop, Self",,"Mike Pop, Self",,
-564,2022-04-26 13:40:58 ( CDT ),44677.57011574074,Loved " It will take at least a few months to close the deal ",50,Mike Pop,"Mike Pop, Self",,"Mike Pop, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+480,2022-04-23 21:24:24 ( CDT ),44674.89194,50,Want to be a strategic advisor to Twitter if this works out ?,Self,"Mike Pop, Self",No,Mike Pop
+494,2022-04-23 22:01:45 ( CDT ),44674.91788,50,For sure,Mike Pop,"Mike Pop, Self",No,Mike Pop
+495,2022-04-23 22:01:58 ( CDT ),44674.91803,50,defiantly things can be better and more culturally engaged,Mike Pop,"Mike Pop, Self",No,Mike Pop
+496,2022-04-23 22:19:30 ( CDT ),44674.93021,50,I think you're in a unique position to broker better Al to detect bots the second they pop up,Mike Pop,"Mike Pop, Self",No,Mike Pop
+497,2022-04-23 22:23:13 ( CDT ),44674.93279,50,"Liked "" I think you're in a unique position to broker better Al to detect bots the second they
+pop up """,Self,"Mike Pop, Self",No,Mike Pop
+562,2022-04-26 13:33:39 ( CDT ),44677.56503,50,When do I start boss,Mike Pop,"Mike Pop, Self",No,Mike Pop
+563,2022-04-26 13:38:02 ( CDT ),44677.56808,50,It will take at least a few months to close the deal,Self,"Mike Pop, Self",No,Mike Pop
+564,2022-04-26 13:40:58 ( CDT ),44677.57012,50,"Loved "" It will take at least a few months to close the deal """,Mike Pop,"Mike Pop, Self",No,Mike Pop

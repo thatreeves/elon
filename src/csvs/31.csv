@@ -1,8 +1,8 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-231,2022-04-05 07:52:06 ( CDT ),44656.32784722222,I'm so thrilled you're joining the board . I apologise about the bump of the first agreement
-I'm not a good manager of lawyers . I really look forward to meeting you .,31,Martha Twitter NomGov,"Jared Birchall, Self,
-Martha Twitter NomGov",,"Jared Birchall, Self,
-Martha Twitter NomGov",,
-237,2022-04-05 13:55:02 ( CDT ),44656.579884259256,"Thanks Martha , same here .",31,Self,"Jared Birchall, Self,
-Martha Twitter NomGov",,"Jared Birchall, Self,
-Martha Twitter NomGov",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+231,2022-04-05 07:52:06 ( CDT ),44656.32785,31,"I'm so thrilled you're joining the board . I apologise about the bump of the first agreement
+I'm not a good manager of lawyers . I really look forward to meeting you .",Martha Twitter NomGov,"Jared Birchall, Self,
+Martha Twitter NomGov",Yes,"Jared Birchall,
+Martha Twitter NomGov"
+237,2022-04-05 13:55:02 ( CDT ),44656.57988,31,"Thanks Martha , same here .",Self,"Jared Birchall, Self,
+Martha Twitter NomGov",Yes,"Jared Birchall,
+Martha Twitter NomGov"

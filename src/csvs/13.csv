@@ -1,31 +1,72 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-83,2022-03-27 15:01:12 ( CDT ),44647.62583333333,"Hi everyone Parag ( Ceo ) , Bret ( Chairman ) and Martha ( head of gov ) - You are connected w
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+83,2022-03-27 15:01:12 ( CDT ),44647.62583,13,"Hi everyone Parag ( Ceo ) , Bret ( Chairman ) and Martha ( head of gov ) - You are connected w
 Elon . He is briefed on my conversations w you . Elon - everyone excited about prospect of
 you being involved and on board . Next step is for you to chat w three of them so we can
-move this forward quickly . Maybe we can get this done next few days",13,Egon Durban,"Egon Durban,
+move this forward quickly . Maybe we can get this done next few days",Egon Durban,"Egon Durban,
 NomGov,
 Parag,
 Bret Taylor,
 Self,
-Martha Twitter",1,"Egon Durban,
+Martha Twitter",Yes,"Egon Durban,
 Parag,
 Bret Taylor,
-Martha Twitter NomGov, Self",,
-84,2022-03-27 15:01:55 ( CDT ),44647.62633101852,Thanks Egon,13,Self,"Egon Durban,
+Martha Twitter NomGov"
+84,2022-03-27 15:01:55 ( CDT ),44647.62633,13,Thanks Egon,Self,"Egon Durban,
 NomGov,
 Parag,
 Bret Taylor,
 Self,
-Martha Twitter",1,"Egon Durban,
+Martha Twitter",Yes,"Egon Durban,
 Parag,
 Bret Taylor,
-Martha Twitter NomGov, Self",,
-87,2022-03-27 15:14:24 ( CDT ),44647.635,Hey Elon- great to be connected directly . Would love to chat !,13,Parag,"Egon Durban,
+Martha Twitter NomGov"
+87,2022-03-27 15:14:24 ( CDT ),44647.635,13,Hey Elon- great to be connected directly . Would love to chat !,Parag,"Egon Durban,
 NomGov,
 Parag,
 Bret Taylor,
 Self,
-Martha Twitter",1,"Egon Durban,
+Martha Twitter",Yes,"Egon Durban,
 Parag,
 Bret Taylor,
-Martha Twitter NomGov, Self",,
+Martha Twitter NomGov"
+104,2022-03-30 16:59:54 ( CDT ),44650.70826,13,"Hey Elon , I'm Martha chair of Twitter nomgov - know you've talked to Bret and parag - I'm v
+keen to have a chat when you have time - im in Europe but will make anything work",Martha Twitter NomGov,"Egon Durban,
+Martha Twitter NomGov
+Parag,
+Bret Taylor,
+Self,",Yes,"Egon Durban,
+Parag,
+Bret Taylor,
+Martha Twitter NomGov"
+105,2022-03-30 17:08:34 ( CDT ),44650.71428,13,Sounds good . Perhaps a call late tonight central time works ? I'm usually up until ~ 3am .,Self,"Egon Durban,
+Martha Twitter NomGov
+Parag,
+Bret Taylor,
+Self,",Yes,"Egon Durban,
+Parag,
+Bret Taylor,
+Martha Twitter NomGov"
+109,2022-03-30 21:03:48 ( CDT ),44650.87764,13,If ok with you I'll try you 10am CET ( 1am PST ) looking forward to meeting you,Martha Twitter NomGov,"Egon Durban,
+Parag,
+Martha Twitter,
+Self,",Yes,"Egon Durban,
+Parag,
+Bret Taylor,
+Martha Twitter NomGov"
+110,2022-03-30 23:14:35 ( CDT ),44650.96846,13,Sure,Self,"Egon Durban,
+Martha Twitter NomGov
+Parag,
+Bret Taylor,
+Self,",Yes,"Egon Durban,
+Parag,
+Bret Taylor,
+Martha Twitter NomGov"
+113,2022-03-31 03:27:53 ( CDT ),44651.14436,13,"Thanks v much for the time Elon - pls let us know who in your office our GC can talk to - sleep
+well !",Martha Twitter NomGov,"Egon Durban, NomGov, Parag, Martha Twitter, Bret Taylor, Self",Yes,"Egon Durban,
+Parag,
+Bret Taylor,
+Martha Twitter NomGov"
+114,2022-03-31 03:44:56 ( CDT ),44651.1562,13,You're most welcome . Great to talk !,Self,"Egon Durban, NomGov, Parag, Martha Twitter, Bret Taylor, Self",Yes,"Egon Durban,
+Parag,
+Bret Taylor,
+Martha Twitter NomGov"

@@ -1,11 +1,11 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-535,2022-04-25 14:21:44 ( CDT ),44676.59842592593,Absolutely,61,Self,"Tim Urban, Self",,"Tim Urban, Self",,
-598,2022-04-27 20:00:40 ( CDT ),44678.8337962963,"i haven't officially started my podcast yet but if you think it would be helpful , i'd be happy to
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+535,2022-04-25 14:21:44 ( CDT ),44676.59843,61,Absolutely,Self,"Tim Urban, Self",No,Tim Urban
+598,2022-04-27 20:00:40 ( CDT ),44678.8338,61,"i haven't officially started my podcast yet but if you think it would be helpful , i'd be happy to
 record a conversation with you about twitter to ask some of the most common questions and
-let you expand upon your thoughts",61,Tim Urban,"Tim Urban, Self",,"Tim Urban, Self",,
-599,2022-04-27 20:00:53 ( CDT ),44678.83394675926,but only if it would be helpful to you,61,Tim Urban,"Tim Urban, Self",,"Tim Urban, Self",,
-602,2022-04-27 20:21:29 ( CDT ),44678.84825231481,Suee,61,Self,"Tim Urban, Self",,"Tim Urban, Self",,
-603,2022-04-27 20:33:25 ( CDT ),44678.85653935185,Any day or time that's best for you ? And best location ? I'm in LA but can zip over to Austin if
-you're there .,61,Tim Urban,"Tim Urban, Self",,"Tim Urban, Self",,
-604,2022-04-27 20:39:13 ( CDT ),44678.86056712963,Probably in a few weeks,61,Self,"Tim Urban, Self",,"Tim Urban, Self",,
-605,2022-04-27 20:44:26 ( CDT ),44678.86418981481,Liked " Probably in a few weeks ",61,Tim Urban,"Tim Urban, Self",,"Tim Urban, Self",,
+let you expand upon your thoughts",Tim Urban,"Tim Urban, Self",No,Tim Urban
+599,2022-04-27 20:00:53 ( CDT ),44678.83395,61,but only if it would be helpful to you,Tim Urban,"Tim Urban, Self",No,Tim Urban
+602,2022-04-27 20:21:29 ( CDT ),44678.84825,61,Suee,Self,"Tim Urban, Self",No,Tim Urban
+603,2022-04-27 20:33:25 ( CDT ),44678.85654,61,"Any day or time that's best for you ? And best location ? I'm in LA but can zip over to Austin if
+you're there .",Tim Urban,"Tim Urban, Self",No,Tim Urban
+604,2022-04-27 20:39:13 ( CDT ),44678.86057,61,Probably in a few weeks,Self,"Tim Urban, Self",No,Tim Urban
+605,2022-04-27 20:44:26 ( CDT ),44678.86419,61,"Liked "" Probably in a few weeks """,Tim Urban,"Tim Urban, Self",No,Tim Urban

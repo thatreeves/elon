@@ -1,4 +1,4 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-210,2022-04-04 15:39:44 ( CDT ),44655.652592592596,So can you bust us out of Twitter jail now lol,41,Kyle,"Kyle, Self",1,"Kyle, Self",,
-211,2022-04-04 15:47:16 ( CDT ),44655.65782407407,I do not have that ability,41,Self,"Kyle, Self",1,"Kyle, Self",,
-215,2022-04-04 18:36:07 ( CDT ),44655.77508101852,"Lol I know I know . Big move though , love to see it",41,Kyle,"Kyle, Self",1,"Kyle, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+210,2022-04-04 15:39:44 ( CDT ),44655.65259,41,So can you bust us out of Twitter jail now lol,Kyle,"Kyle, Self",No,Kyle
+211,2022-04-04 15:47:16 ( CDT ),44655.65782,41,I do not have that ability,Self,"Kyle, Self",No,Kyle
+215,2022-04-04 18:36:07 ( CDT ),44655.77508,41,"Lol I know I know . Big move though , love to see it",Kyle,"Kyle, Self",No,Kyle

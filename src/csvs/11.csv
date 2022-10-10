@@ -1,4 +1,4 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-78,2022-03-26 22:49:14 ( CDT ),44646.95085648148,It is regarding the Twitter board .,11,Self,"Egon Durban,
-Larry Ellison, Self",1,"Egon Durban,
-Larry Ellison, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+78,2022-03-26 22:49:14 ( CDT ),44646.95086,11,It is regarding the Twitter board .,Self,"Egon Durban,
+Larry Ellison, Self",Yes,"Egon Durban,
+Larry Ellison"

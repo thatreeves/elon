@@ -1,3 +1,3 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-647,2022-04-28 17:05:02 ( CDT ),44679.7118287037,"Very nice to connect , Reid . What is the best email to reach you at ?",32,Jared Birchall,"Jared Birchall, Self, Reid Hoffman",,"Jared Birchall, Self, Reid Hoffman",,
-649,2022-04-28 17:05:33 ( CDT ),44679.7121875,Liked " rhoffman@greylock.com Thx ! And nice to meet . ",32,Jared Birchall,"Jared Birchall, Self, Reid Hoffman",,"Jared Birchall, Self, Reid Hoffman",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+647,2022-04-28 17:05:02 ( CDT ),44679.71183,32,"Very nice to connect , Reid . What is the best email to reach you at ?",Jared Birchall,"Jared Birchall, Self, Reid Hoffman",Yes,"Jared Birchall, Reid Hoffman"
+649,2022-04-28 17:05:33 ( CDT ),44679.71219,32,"Liked "" rhoffman@greylock.com Thx ! And nice to meet . """,Jared Birchall,"Jared Birchall, Self, Reid Hoffman",Yes,"Jared Birchall, Reid Hoffman"

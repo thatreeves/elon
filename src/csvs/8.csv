@@ -1,9 +1,9 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-423,2022-04-20 16:00:14 ( CDT ),44671.6668287037,Not at all,8,Self,"Brian Kingston, Self",,"Brian Kingston, Self",,
-677,2022-04-20 15:56:26 ( CDT ),44671.664189814815,"Hi Elon - it's Brian Kingston at Brookfield . There was an article today in the FT that said we
-( Brookfield ) have " decided against providing an equity cheque " for a Twitter buyout . I just wanted
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+423,2022-04-20 16:00:14 ( CDT ),44671.66683,8,Not at all,Self,"Brian Kingston, Self",No,Brian Kingston
+677,2022-04-20 15:56:26 ( CDT ),44671.66419,8,"Hi Elon - it's Brian Kingston at Brookfield . There was an article today in the FT that said we
+( Brookfield ) have "" decided against providing an equity cheque "" for a Twitter buyout . I just wanted
 to let you know that didn't come from us- we would never comment ( on or off the record ) about
 something like that , particularly when it relates to one of our partners . We appreciate all that we
 are doing on solar together and you allowing us to participate in the Boring Co raise this week .
 While I'm sure you don't believe anything you read in the FT anyway , I'm sorry if the article caused
-any aggravation . If there is anything we can do to be helpful , please do let me know .",8,Brian Kingston,"Brian Kingston, Self",,"Brian Kingston, Self",,
+any aggravation . If there is anything we can do to be helpful , please do let me know .",Brian Kingston,"Brian Kingston, Self",No,Brian Kingston

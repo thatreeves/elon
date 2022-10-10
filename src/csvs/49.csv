@@ -1,20 +1,20 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-351,2022-04-12 23:17:11 ( CDT ),44663.9702662037,Have any time to see Philippe Laffont in Vancouver tomorrow ?,49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-352,2022-04-12 23:41:57 ( CDT ),44663.98746527778,Maybe,49,Self,"Michael Kives, Self",,"Michael Kives, Self",,
-353,2022-04-12 23:49:50 ( CDT ),44663.992939814816,Any particular time of best ?,49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-354,2022-04-12 23:53:47 ( CDT ),44663.99568287037,* any time best ?,49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-355,2022-04-13 00:12:09 ( CDT ),44664.0084375,What exactly does he want ?,49,Self,"Michael Kives, Self",,"Michael Kives, Self",,
-356,2022-04-13 00:16:54 ( CDT ),44664.01173611111,"Has some ideas on Twitter Owns a billion of Tesla Did last 2 or 3 SpaceX rounds And wants to
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+351,2022-04-12 23:17:11 ( CDT ),44663.97027,49,Have any time to see Philippe Laffont in Vancouver tomorrow ?,Michael Kives,"Michael Kives, Self",No,Michael Kives
+352,2022-04-12 23:41:57 ( CDT ),44663.98747,49,Maybe,Self,"Michael Kives, Self",No,Michael Kives
+353,2022-04-12 23:49:50 ( CDT ),44663.99294,49,Any particular time of best ?,Michael Kives,"Michael Kives, Self",No,Michael Kives
+354,2022-04-12 23:53:47 ( CDT ),44663.99568,49,* any time best ?,Michael Kives,"Michael Kives, Self",No,Michael Kives
+355,2022-04-13 00:12:09 ( CDT ),44664.00844,49,What exactly does he want ?,Self,"Michael Kives, Self",No,Michael Kives
+356,2022-04-13 00:16:54 ( CDT ),44664.01174,49,"Has some ideas on Twitter Owns a billion of Tesla Did last 2 or 3 SpaceX rounds And wants to
 get into Boring in the future ( I told him to help with recruiting ) You could honestly do like 20
-mins in your hotel He's super smart , good guy",49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-357,2022-04-13 00:36:57 ( CDT ),44664.025659722225,"Ok , he can come by tonight . Room 1001 at Shangri - La .",49,Self,"Michael Kives, Self",,"Michael Kives, Self",,
-358,2022-04-13 01:01:37 ( CDT ),44664.04278935185,Need to find you a great assistant ! I'm headed to bed I'll tell Philippe to email you when he
-lands tonight in case you're still up and want to meet,49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-369,2022-04-14 08:52:07 ( CDT ),44665.369525462964,https://twitter.com/sbf ftx / status / 1514588820641128452 ? s = 21 & t = qa
-Z4pA Ct35ud6M60g3ng,49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-370,2022-04-14 08:52:42 ( CDT ),44665.36993055556,Could be cool to do this with Sam Bankman - Fried,49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-645,2022-04-28 16:42:35 ( CDT ),44679.696238425924,Twitter is obviously not going to be turned into some right wing nuthouse . Aiming to be as
-broadly inclusive as possible . Do the right thing for vast majority of Americans .,49,Self,"Michael Kives, Self",,"Michael Kives, Self",,
-646,2022-04-28 16:45:43 ( CDT ),44679.69841435185,Liked " Twitter is obviously not going to be turned into some right wing nuthouse . Aiming to
-be as broadly inclusive as possible . Do the right thing for vast majority of Americans . ”,49,Michael Kives,"Michael Kives, Self",,"Michael Kives, Self",,
-730,2022-05-10 09:57:54 ( CDT ),44691.41520833333,Connecting you .,49,Unknown,Unknown,,Unknown,x,
+mins in your hotel He's super smart , good guy",Michael Kives,"Michael Kives, Self",No,Michael Kives
+357,2022-04-13 00:36:57 ( CDT ),44664.02566,49,"Ok , he can come by tonight . Room 1001 at Shangri - La .",Self,"Michael Kives, Self",No,Michael Kives
+358,2022-04-13 01:01:37 ( CDT ),44664.04279,49,"Need to find you a great assistant ! I'm headed to bed I'll tell Philippe to email you when he
+lands tonight in case you're still up and want to meet",Michael Kives,"Michael Kives, Self",No,Michael Kives
+369,2022-04-14 08:52:07 ( CDT ),44665.36953,49,"https://twitter.com/sbf ftx / status / 1514588820641128452 ? s = 21 & t = qa
+Z4pA Ct35ud6M60g3ng",Michael Kives,"Michael Kives, Self",No,Michael Kives
+370,2022-04-14 08:52:42 ( CDT ),44665.36993,49,Could be cool to do this with Sam Bankman - Fried,Michael Kives,"Michael Kives, Self",No,Michael Kives
+645,2022-04-28 16:42:35 ( CDT ),44679.69624,49,"Twitter is obviously not going to be turned into some right wing nuthouse . Aiming to be as
+broadly inclusive as possible . Do the right thing for vast majority of Americans .",Self,"Michael Kives, Self",No,Michael Kives
+646,2022-04-28 16:45:43 ( CDT ),44679.69841,49,"Liked "" Twitter is obviously not going to be turned into some right wing nuthouse . Aiming to
+be as broadly inclusive as possible . Do the right thing for vast majority of Americans . ”",Michael Kives,"Michael Kives, Self",No,Michael Kives
+730,2022-05-10 09:57:54 ( CDT ),44691.41521,49,Connecting you .,Unknown,Unknown,No,Redacted

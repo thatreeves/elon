@@ -1,4 +1,4 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-384,2022-04-14 15:08:07 ( CDT ),44665.630636574075,Hey Elon my name is Jake Sherman . I'm a reporter with Punchbowl News in Washington
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+384,2022-04-14 15:08:07 ( CDT ),44665.63064,21,"Hey Elon my name is Jake Sherman . I'm a reporter with Punchbowl News in Washington
 1 cover Congress . Wonder if you're game to talk about how Twitter would change for politics
-if you were at the helm ?,21,Jake Sherman,"Jake Sherman, Self",,"Jake Sherman, Self",,
+if you were at the helm ?",Jake Sherman,"Jake Sherman, Self",No,Jake Sherman

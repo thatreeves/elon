@@ -1,40 +1,40 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-100,2022-03-30 11:22:26 ( CDT ),44650.473912037036,Look forward to meeting soon ! Can you let us know when you are able to meet in the Bay
-Area in the next couple of days ?,5,Parag,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-111,2022-03-31 00:09:56 ( CDT ),44651.006898148145,"I land in San Jose tomorrow around 2pm and depart around midnight . My Tesla meetings are
-flexible , so I can meet anytime in those 10 hours .",5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-115,2022-03-31 06:38:41 ( CDT ),44651.27686342593,By " tomorrow " do you mean Thursday or Friday ?,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-116,2022-03-31 06:40:23 ( CDT ),44651.27804398148,Today,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-117,2022-03-31 07:00:35 ( CDT ),44651.29207175926,I can make any time in those 10 hours work .,5,Parag,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-118,2022-03-31 07:05:28 ( CDT ),44651.29546296296,I land in Oakland at 8:30 pm . Perhaps we can meet at 9:30 pm somewhere ? I am working to
-see if I can move up my flight from NYC to land earlier in the meantime,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-119,2022-03-31 07:24:39 ( CDT ),44651.30878472222,Working on landing earlier and landing in San Jose so we can have dinner near you . Will keep
-you both posted in real time,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-120,2022-03-31 08:17:43 ( CDT ),44651.34563657407,"Ok , successfully moved my flight to land at 6:30 pm in San Jose . Working on a place we can
-meet privately",5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-121,2022-03-31 12:29:28 ( CDT ),44651.520462962966,Sounds good,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-122,2022-03-31 15:23:49 ( CDT ),44651.641539351855,Crypto spam on Twitter really needs to get crushed . It's a major blight on the user experience
-and they scam so many innocent people .,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-124,2022-03-31 17:25:52 ( CDT ),44651.7262962963,It sounds like we are confirming 7pm at a private residence near San Jose . Our assistants
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+100,2022-03-30 11:22:26 ( CDT ),44650.47391,5,"Look forward to meeting soon ! Can you let us know when you are able to meet in the Bay
+Area in the next couple of days ?",Parag,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+111,2022-03-31 00:09:56 ( CDT ),44651.0069,5,"I land in San Jose tomorrow around 2pm and depart around midnight . My Tesla meetings are
+flexible , so I can meet anytime in those 10 hours .",Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+115,2022-03-31 06:38:41 ( CDT ),44651.27686,5,"By "" tomorrow "" do you mean Thursday or Friday ?",Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+116,2022-03-31 06:40:23 ( CDT ),44651.27804,5,Today,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+117,2022-03-31 07:00:35 ( CDT ),44651.29207,5,I can make any time in those 10 hours work .,Parag,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+118,2022-03-31 07:05:28 ( CDT ),44651.29546,5,"I land in Oakland at 8:30 pm . Perhaps we can meet at 9:30 pm somewhere ? I am working to
+see if I can move up my flight from NYC to land earlier in the meantime",Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+119,2022-03-31 07:24:39 ( CDT ),44651.30878,5,"Working on landing earlier and landing in San Jose so we can have dinner near you . Will keep
+you both posted in real time",Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+120,2022-03-31 08:17:43 ( CDT ),44651.34564,5,"Ok , successfully moved my flight to land at 6:30 pm in San Jose . Working on a place we can
+meet privately",Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+121,2022-03-31 12:29:28 ( CDT ),44651.52046,5,Sounds good,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+122,2022-03-31 15:23:49 ( CDT ),44651.64154,5,"Crypto spam on Twitter really needs to get crushed . It's a major blight on the user experience
+and they scam so many innocent people .",Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+124,2022-03-31 17:25:52 ( CDT ),44651.7263,5,"It sounds like we are confirming 7pm at a private residence near San Jose . Our assistants
 reached out to Jehn on logistics . Let me know if either of you have any concerns or want to
-move things around . Looking forward to our conversation .,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-125,2022-03-31 17:50:42 ( CDT ),44651.74354166666,Works for me . Excited to see you both in person !,5,Parag,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-127,2022-03-31 19:19:41 ( CDT ),44651.80533564815,Jehn had a baby and I decided to try having no assistant for a few months,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-128,2022-03-31 19:19:47 ( CDT ),44651.80540509259,Likewise,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-129,2022-03-31 19:22:06 ( CDT ),44651.80701388889,The address is,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-130,2022-03-31 19:22:27 ( CDT ),44651.80725694444,Does 7pm work for you Elon ?,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-131,2022-03-31 19:28:19 ( CDT ),44651.81133101852,"Probably close to that time . Might only be able to get there by 7:30 , but will try for earlier .",5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-132,2022-03-31 19:30:01 ( CDT ),44651.81251157408,Sounds good . I am going to be a bit early because my plane is landing earlier but free all
-evening so we can start whenever you get there and Parag and I can catch up in the meantime,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-133,2022-03-31 21:01:08 ( CDT ),44651.87578703704,This wins for the weirdest place I've had a meeting recently . I think they were looking for an
-airbnb near the airport and there are tractors and donkeys,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-134,2022-03-31 21:01:26 ( CDT ),44651.87599537037,Haha awesome,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-135,2022-03-31 21:02:17 ( CDT ),44651.87658564815,Maybe Airbnb's algorithm thinks you love tractors and donkeys ( who doesn't ! ),5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-136,2022-03-31 21:02:42 ( CDT ),44651.876875,On my way . There in about 15 mins .,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-137,2022-03-31 21:05:33 ( CDT ),44651.878854166665,And abandoned trucks in case we want to start a catering business after we meet,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-138,2022-03-31 21:09:56 ( CDT ),44651.881898148145,Sounds like a post - apocalyptic movie set,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-139,2022-03-31 21:10:18 ( CDT ),44651.882152777776,Basically yes,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-147,2022-04-01 00:47:28 ( CDT ),44652.03296296296,Great dinner :),5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-148,2022-04-01 00:48:39 ( CDT ),44652.033784722225,Really great . The donkeys and dystopian surveillance helicopters added to the ambiance,5,Bret Taylor,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-149,2022-04-01 01:08:52 ( CDT ),44652.04782407408,Definitely one for the memory books haha,5,Self,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
-150,2022-04-01 01:55:20 ( CDT ),44652.080092592594,Memorable for multiple reasons . Really enjoyed it,5,Parag,"Bret Taylor, Parag, Self",1,"Bret Taylor, Parag, Self",,
+move things around . Looking forward to our conversation .",Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+125,2022-03-31 17:50:42 ( CDT ),44651.74354,5,Works for me . Excited to see you both in person !,Parag,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+127,2022-03-31 19:19:41 ( CDT ),44651.80534,5,Jehn had a baby and I decided to try having no assistant for a few months,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+128,2022-03-31 19:19:47 ( CDT ),44651.80541,5,Likewise,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+129,2022-03-31 19:22:06 ( CDT ),44651.80701,5,The address is,Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+130,2022-03-31 19:22:27 ( CDT ),44651.80726,5,Does 7pm work for you Elon ?,Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+131,2022-03-31 19:28:19 ( CDT ),44651.81133,5,"Probably close to that time . Might only be able to get there by 7:30 , but will try for earlier .",Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+132,2022-03-31 19:30:01 ( CDT ),44651.81251,5,"Sounds good . I am going to be a bit early because my plane is landing earlier but free all
+evening so we can start whenever you get there and Parag and I can catch up in the meantime",Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+133,2022-03-31 21:01:08 ( CDT ),44651.87579,5,"This wins for the weirdest place I've had a meeting recently . I think they were looking for an
+airbnb near the airport and there are tractors and donkeys",Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+134,2022-03-31 21:01:26 ( CDT ),44651.876,5,Haha awesome,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+135,2022-03-31 21:02:17 ( CDT ),44651.87659,5,Maybe Airbnb's algorithm thinks you love tractors and donkeys ( who doesn't ! ),Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+136,2022-03-31 21:02:42 ( CDT ),44651.87688,5,On my way . There in about 15 mins .,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+137,2022-03-31 21:05:33 ( CDT ),44651.87885,5,And abandoned trucks in case we want to start a catering business after we meet,Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+138,2022-03-31 21:09:56 ( CDT ),44651.8819,5,Sounds like a post - apocalyptic movie set,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+139,2022-03-31 21:10:18 ( CDT ),44651.88215,5,Basically yes,Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+147,2022-04-01 00:47:28 ( CDT ),44652.03296,5,Great dinner :),Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+148,2022-04-01 00:48:39 ( CDT ),44652.03378,5,Really great . The donkeys and dystopian surveillance helicopters added to the ambiance,Bret Taylor,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+149,2022-04-01 01:08:52 ( CDT ),44652.04782,5,Definitely one for the memory books haha,Self,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"
+150,2022-04-01 01:55:20 ( CDT ),44652.08009,5,Memorable for multiple reasons . Really enjoyed it,Parag,"Bret Taylor, Parag, Self",Yes,"Bret Taylor, Parag"

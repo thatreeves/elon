@@ -1,140 +1,139 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd,
-374,2022-04-14 11:58:19 ( CDT ),44665.49883101852,You should raise your offer,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-375,2022-04-14 11:58:25 ( CDT ),44665.49890046296,54.21,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-376,2022-04-14 11:58:37 ( CDT ),44665.49903935185,The perfect counter,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-377,2022-04-14 12:00:48 ( CDT ),44665.500555555554,You could easily clean up bots and spam and make the service viable for many more users
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean,
+374,2022-04-14 11:58:19 ( CDT ),44665.49883,34,You should raise your offer,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+375,2022-04-14 11:58:25 ( CDT ),44665.4989,34,54.21,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+376,2022-04-14 11:58:37 ( CDT ),44665.49904,34,The perfect counter,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+377,2022-04-14 12:00:48 ( CDT ),44665.50056,34,"You could easily clean up bots and spam and make the service viable for many more users
 Removing bots and spam is a lot less complicated than what the Tesla self driving team is
 doing ( based on hearing the last edge case meeting )
--,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-378,2022-04-14 12:01:16 ( CDT ),44665.50087962963,"And why should blue check marks be limited to the elite , press and celebrities ? How is that
-democratic ?",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-379,2022-04-14 12:04:52 ( CDT ),44665.50337962963,The Kingdom would like a word ..
+-",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+378,2022-04-14 12:01:16 ( CDT ),44665.50088,34,"And why should blue check marks be limited to the elite , press and celebrities ? How is that
+democratic ?",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+379,2022-04-14 12:04:52 ( CDT ),44665.50338,34,"The Kingdom would like a word ..
 https://twitter.com/Alwaleed_Talal/status/1514615956986757127?s=20&t=2q4VfMBXrldYGj
-3vFN_row @,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-389,2022-04-15 17:06:33 ( CDT ),44666.71288194445,Back of the envelope ... Twitter revenue per employee : $ 5B rev / 8k employees = $ 625K rev
+3vFN_row @",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+389,2022-04-15 17:06:33 ( CDT ),44666.71288,34,"Back of the envelope ... Twitter revenue per employee : $ 5B rev / 8k employees = $ 625K rev
 per employee in 2021 Google revenue per employee : $ 257B rev / 135K employee = $ 1.9M
 per employee in 2021 Apple revenue per employee : $ 365B rev / 154k employees = $ 2.37M
-per employee in fiscal 2021,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-390,2022-04-15 17:08:07 ( CDT ),44666.71396990741,Twitter revenue per employee if 3k instead of 8k : $ 5B rev / 3k employees = $ 1.66m rev per
-employee in 2021 ( more industry standard ),34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-391,2022-04-15 17:17:34 ( CDT ),44666.72053240741,Emphasized " Back of the envelope ... Twitter revenue per employee : $ 5B rev / 8k employees
+per employee in fiscal 2021",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+390,2022-04-15 17:08:07 ( CDT ),44666.71397,34,"Twitter revenue per employee if 3k instead of 8k : $ 5B rev / 3k employees = $ 1.66m rev per
+employee in 2021 ( more industry standard )",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+391,2022-04-15 17:17:34 ( CDT ),44666.72053,34,"Emphasized "" Back of the envelope ... Twitter revenue per employee : $ 5B rev / 8k employees
 = $ 625K rev per employee in 2021 Google revenue per employee : $ 257B rev / 135K
 employee = $ 1.9M per employee in 2021 Apple revenue per employee : $ 365B rev / 154k
-employees = $ 2.37M per employee in fiscal 2021 ",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-392,2022-04-15 17:17:48 ( CDT ),44666.72069444445,Insane potential for improvement,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-393,2022-04-15 17:21:45 ( CDT ),44666.7234375,< Attachment - image / gif - IMG_2241.GIF >,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-394,2022-04-15 17:21:45 ( CDT ),44666.7234375,Day zero,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-395,2022-04-15 17:22:12 ( CDT ),44666.72375,Sharpen your blades boys,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-396,2022-04-15 17:22:59 ( CDT ),44666.72429398148,2 day a week Office requirement = 20 % voluntary departures,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-397,2022-04-15 17:28:58 ( CDT ),44666.72844907407,https://twitter.com/jason/status/1515094823337832448?s=10&t=CWr2U7sH4cuVOsahPgiKR,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-398,2022-04-15 17:29:11 ( CDT ),44666.72859953704,"I mean , the product road map is beyond obviously",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-399,2022-04-15 17:29:51 ( CDT ),44666.7290625,Premium feature abound ... and twitter blue has exactly zero,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-400,2022-04-15 17:30:23 ( CDT ),44666.72943287037,What committee came up with the list of dog shit features in Blue ? ! ? It's worth paying to turn
-it off !,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-401,2022-04-15 17:44:35 ( CDT ),44666.73929398148,"Yeah , what an insane piece of shit !",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-402,2022-04-16 01:46:40 ( CDT ),44667.07407407407,Maybe we don't talk twitter on twitter DM,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-403,2022-04-16 01:49:49 ( CDT ),44667.076261574075,Was just thinking that haha,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-404,2022-04-16 01:50:38 ( CDT ),44667.076828703706,Nothing said there so far is anything different from what I said publicly .,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-405,2022-04-16 01:51:10 ( CDT ),44667.077199074076,"Btw , Parag is still on a ten day vacation in Hawaii",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-406,2022-04-16 01:57:28 ( CDT ),44667.08157407407,No reason to cut it short ... in your first tour as ceo,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-407,2022-04-16 01:57:33 ( CDT ),44667.08163194444,( !!! ),34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-408,2022-04-16 01:57:46 ( CDT ),44667.081782407404,Shouldn't he be in a war room right now ? ! ?,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-409,2022-04-16 02:00:43 ( CDT ),44667.08383101852,Does doing occasional zoom calls while drinking fruity cocktails at the Four Seasons count ?,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-410,2022-04-16 02:16:42 ( CDT ),44667.094930555555,Ⓡ,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-413,2022-04-16 15:34:33 ( CDT ),44667.648993055554,https://twitter.com/iason/status/1515427935263490053?s=10&t=4rQ JIDXCDtHhOaXdGHJ5
-8,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-414,2022-04-16 15:34:33 ( CDT ),44667.648993055554,I'm starting a DAO,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-415,2022-04-16 15:34:36 ( CDT ),44667.64902777778,,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-416,2022-04-16 15:35:31 ( CDT ),44667.649664351855,"Money goes to buy twitter shares , if you don't wine money goes to open source twitter
-competitor @",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-417,2022-04-16 16:05:22 ( CDT ),44667.67039351852,"Liked " Money goes to buy twitter shares , if you don't wine money goes to open source
-twitter competitor "",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-468,2022-04-23 21:03:38 ( CDT ),44674.87752314815,"I will be universally beloved , since it is so easy to please everyone on twitter",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,Self,1
-469,2022-04-23 21:04:30 ( CDT ),44674.878125,"It feels like everyone wants the same exact thing , and they will be patient and understanding
-of any changes ... Twitter Stans are a reasonable , good faith bunch",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-470,2022-04-23 21:06:51 ( CDT ),44674.87975694444,These dipshits spent a years on twitter blue to give people exactly .... Nothing they want !,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-471,2022-04-23 21:07:10 ( CDT ),44674.87997685185,Splitting revenue with video creators like YouTube could be huge unlock,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-472,2022-04-23 21:07:28 ( CDT ),44674.88018518518,We could literally give video creators 100 % of their ad revenue up to $ 1m then do split,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-473,2022-04-23 21:07:31 ( CDT ),44674.880219907405,Absolutely,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-474,2022-04-23 21:17:25 ( CDT ),44674.887094907404,"5 Teams : 5 Northstar metrics 1. Legacy Opps : uptime , speed 2. Membership team : remove
-bots while getting users to pay for " Real Name Memberships " $ 5 a month $ 50 a year .
+employees = $ 2.37M per employee in fiscal 2021 """,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+392,2022-04-15 17:17:48 ( CDT ),44666.72069,34,Insane potential for improvement,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+393,2022-04-15 17:21:45 ( CDT ),44666.72344,34,< Attachment - image / gif - IMG_2241.GIF >,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+394,2022-04-15 17:21:45 ( CDT ),44666.72344,34,Day zero,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+395,2022-04-15 17:22:12 ( CDT ),44666.72375,34,Sharpen your blades boys,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+396,2022-04-15 17:22:59 ( CDT ),44666.72429,34,2 day a week Office requirement = 20 % voluntary departures,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+397,2022-04-15 17:28:58 ( CDT ),44666.72845,34,https://twitter.com/jason/status/1515094823337832448?s=10&t=CWr2U7sH4cuVOsahPgiKR,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+398,2022-04-15 17:29:11 ( CDT ),44666.7286,34,"I mean , the product road map is beyond obviously",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+399,2022-04-15 17:29:51 ( CDT ),44666.72906,34,Premium feature abound ... and twitter blue has exactly zero,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+400,2022-04-15 17:30:23 ( CDT ),44666.72943,34,"What committee came up with the list of dog shit features in Blue ? ! ? It's worth paying to turn
+it off !",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+401,2022-04-15 17:44:35 ( CDT ),44666.73929,34,"Yeah , what an insane piece of shit !",Self,"Jason Calacanis, Self",No,Jason Calacanis,
+402,2022-04-16 01:46:40 ( CDT ),44667.07407,34,Maybe we don't talk twitter on twitter DM,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+403,2022-04-16 01:49:49 ( CDT ),44667.07626,34,Was just thinking that haha,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+404,2022-04-16 01:50:38 ( CDT ),44667.07683,34,Nothing said there so far is anything different from what I said publicly .,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+405,2022-04-16 01:51:10 ( CDT ),44667.0772,34,"Btw , Parag is still on a ten day vacation in Hawaii",Self,"Jason Calacanis, Self",No,Jason Calacanis,
+406,2022-04-16 01:57:28 ( CDT ),44667.08157,34,No reason to cut it short ... in your first tour as ceo,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+407,2022-04-16 01:57:33 ( CDT ),44667.08163,34,( !!! ),Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+408,2022-04-16 01:57:46 ( CDT ),44667.08178,34,Shouldn't he be in a war room right now ? ! ?,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+409,2022-04-16 02:00:43 ( CDT ),44667.08383,34,Does doing occasional zoom calls while drinking fruity cocktails at the Four Seasons count ?,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+410,2022-04-16 02:16:42 ( CDT ),44667.09493,34,Ⓡ,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+413,2022-04-16 15:34:33 ( CDT ),44667.64899,34,"https://twitter.com/iason/status/1515427935263490053?s=10&t=4rQ JIDXCDtHhOaXdGHJ5
+8",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+414,2022-04-16 15:34:33 ( CDT ),44667.64899,34,I'm starting a DAO,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+416,2022-04-16 15:35:31 ( CDT ),44667.64966,34,"Money goes to buy twitter shares , if you don't wine money goes to open source twitter
+competitor @",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+417,2022-04-16 16:05:22 ( CDT ),44667.67039,34,"Liked "" Money goes to buy twitter shares , if you don't wine money goes to open source
+twitter competitor """,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+468,2022-04-23 21:03:38 ( CDT ),44674.87752,34,"I will be universally beloved , since it is so easy to please everyone on twitter",Self,"Jason Calacanis, Self",No,Jason Calacanis,1
+469,2022-04-23 21:04:30 ( CDT ),44674.87813,34,"It feels like everyone wants the same exact thing , and they will be patient and understanding
+of any changes ... Twitter Stans are a reasonable , good faith bunch",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+470,2022-04-23 21:06:51 ( CDT ),44674.87976,34,These dipshits spent a years on twitter blue to give people exactly .... Nothing they want !,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+471,2022-04-23 21:07:10 ( CDT ),44674.87998,34,Splitting revenue with video creators like YouTube could be huge unlock,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+472,2022-04-23 21:07:28 ( CDT ),44674.88019,34,We could literally give video creators 100 % of their ad revenue up to $ 1m then do split,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+473,2022-04-23 21:07:31 ( CDT ),44674.88022,34,Absolutely,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+474,2022-04-23 21:17:25 ( CDT ),44674.88709,34,"5 Teams : 5 Northstar metrics 1. Legacy Opps : uptime , speed 2. Membership team : remove
+bots while getting users to pay for "" Real Name Memberships "" $ 5 a month $ 50 a year .
 Includes 24 hours response to customer service 3. Payments : % of users that have connected
 a bank account / made a deposit 4. Creator Team : get creators to publish to twitter first
 ( musicians , YouTubers , tiktokers , etc ) by giving them the best % split in the industry ( and
 promotion ) 5. Transparency Team : make the Algorithm & Moderation understandable and
-fair",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-475,2022-04-23 21:18:49 ( CDT ),44674.88806712963,"I think those are the 5 critical pieces ... everyone agrees to " year one " sprint , including coming
+fair",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+475,2022-04-23 21:18:49 ( CDT ),44674.88807,34,"I think those are the 5 critical pieces ... everyone agrees to "" year one "" sprint , including coming
 back to offices within the first 60 days ( unless given special dispensation for extraordinary
-contribution )",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-476,2022-04-23 21:19:22 ( CDT ),44674.888449074075,Hard Reboot the organization,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-477,2022-04-23 21:20:09 ( CDT ),44674.88899305555,"Feels like no one is setting priorities ruthlessly .. 12,000 working on whatever they want ? ! ? No
-projects being cancelled ?!",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-478,2022-04-23 21:21:12 ( CDT ),44674.88972222222,"Move HQ to Austin , rent gigafactory excess space",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-479,2022-04-23 21:24:10 ( CDT ),44674.89178240741,Want to be a strategic advisor if this works out ?,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-481,2022-04-23 21:25:06 ( CDT ),44674.892430555556,100 %,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-482,2022-04-23 21:25:29 ( CDT ),44674.892696759256,"Board member , advisor , whatever ... you have my sword",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-483,2022-04-23 21:25:35 ( CDT ),44674.8927662037,"Loved " Board member , advisor , whatever ... you have my sword "",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-484,2022-04-23 21:26:17 ( CDT ),44674.89325231482,"If 2 , 3 or 4 unlock they are each 250b + markets",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-485,2022-04-23 21:26:41 ( CDT ),44674.893530092595,"Payments is $ 250-500b , YouTube / creators is $ 250b +",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-486,2022-04-23 21:28:31 ( CDT ),44674.89480324074,Membership no one has tried really .... So hard to estimate . 1-5m paid members maybe @
-$ 50-100 a year ? 250k corporate memberships @ 10k a year ?,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-487,2022-04-23 21:36:33 ( CDT ),44674.90038194445,You are a mind reader,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-488,2022-04-23 21:40:44 ( CDT ),44674.903287037036,Put me in the game coach !,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-489,2022-04-23 21:40:48 ( CDT ),44674.903333333335,a,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-490,2022-04-23 21:41:29 ( CDT ),44674.90380787037,Twitter CEO is my dream job,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-491,2022-04-23 21:43:39 ( CDT ),44674.9053125,https://apple.news/AIDqUaC24Sguyc959krWlig,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-492,2022-04-23 21:43:39 ( CDT ),44674.9053125,we should get Mr Beast to create for twitter ... we need to win the next two generations
-( millennials and Z are " meh " on twitter ),34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-493,2022-04-23 21:56:38 ( CDT ),44674.9143287037,For sure,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-533,2022-04-25 14:21:03 ( CDT ),44676.59795138889,Hell yeah !!,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-534,2022-04-25 14:21:26 ( CDT ),44676.59821759259,It will take a few months for the deal to complete before I'm actually in control,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-536,2022-04-25 15:12:00 ( CDT ),44676.63333333333,"Just had the best idea ever for monetization ... if you pay .01 per follower per year , you can
-DM all your followers up to 1x a day .",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-537,2022-04-25 15:12:22 ( CDT ),44676.63358796296,"500,000 follows = $ 5,000 and 1 DM them when I have new podcast episode , or I'm doing an
-event ... or my new book comes out",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-538,2022-04-25 15:14:37 ( CDT ),44676.635150462964,"And let folks slice and dice .... so , you could DM all your twitter followers in Berlin and invite
-them to the GigaRave",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-539,2022-04-25 15:14:55 ( CDT ),44676.635358796295,Oh my lord this would unlock the power of Twitter and goose revenue massively .... Who
-wouldn't pay for this ! ? ! ?,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-540,2022-04-25 15:15:37 ( CDT ),44676.63584490741,and if you over use the tool and are annoying folks would unfollow you ... so it's got a built in
-safe guard ( unlike email spam ),34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-541,2022-04-25 15:16:11 ( CDT ),44676.63623842593,"Imagine we ask Justin Beaver to come back and let him DM his fans ... he could sell $ 10m in
-merchandise or tickets instantly , Would be INSANE for power users and companies",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-696,2022-05-02 11:32:48 ( CDT ),44683.48111111111,https://twitter.com/elonmusk/status/1521158715193315328?s=10&t=ghtc On6KY9B9C4VtlIFIO,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-698,2022-05-02 11:32:48 ( CDT ),44683.48111111111,"on thing you can do in this regard is an SPV of 250 folks capped at $ 10m .. pain on the next for a
-large company , but one item on cap table",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-699,2022-05-02 11:33:00 ( CDT ),44683.48125,You do have to have someone lead / manage the SPV,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-700,2022-05-02 11:34:53 ( CDT ),44683.48255787037,Go ahead,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-701,2022-05-02 11:42:30 ( CDT ),44683.48784722222,Liked " Go ahead ",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-702,2022-05-02 11:43:04 ( CDT ),44683.48824074074,"When you're private its fairly easy to do , but I think current shareholders have to re - up",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-703,2022-05-02 11:47:16 ( CDT ),44683.49115740741,Are you sure ?,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-704,2022-05-02 11:51:13 ( CDT ),44683.49390046296,I am not,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,Jason Calacanis Self (,
-705,2022-05-02 11:51:21 ( CDT ),44683.493993055556,Have never done a take private,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,Jason Calacanis Self,
-706,2022-05-02 11:52:09 ( CDT ),44683.49454861111,Large shareholders ( QPs ) are likely different than non - accredited investors,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,Jason Calacanis Self (,
-735,2022-05-12 19:18:52 ( CDT ),44693.804768518516,What's going on with you marketing an SPV to randos ? This is not ok .,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-736,2022-05-12 19:22:58 ( CDT ),44693.80761574074,"Not randos , I have the largest angel syndicate and that's how I invest . We've done 250+ deals like
-this and we know all the folks . I though that was how folks were doing it .",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-737,2022-05-12 19:23:28 ( CDT ),44693.807962962965,"$ 100m + on commitments , but if that not ok it's fine . Just wanted to support the effort .",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-738,2022-05-12 19:25:46 ( CDT ),44693.80956018518,"~ 300 QPs and 200 accredited investors said they would do it . It's not an open process obviously ,
-only folks already in our syndicate .",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-739,2022-05-12 19:28:30 ( CDT ),44693.81145833333,There is * massive demand to support your effort btw ... people really want to see you win .,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-740,2022-05-12 19:30:30 ( CDT ),44693.81284722222,Morgan Stanley and Jared think you are using our friendship not in a good way,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-741,2022-05-12 19:31:12 ( CDT ),44693.81333333333,This makes it seem like I'm desperate .,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-742,2022-05-12 19:31:17 ( CDT ),44693.8133912037,Please stop,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-743,2022-05-12 19:31:48 ( CDT ),44693.81375,Only ever want to support you .,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-744,2022-05-12 19:37:49 ( CDT ),44693.817928240744,"Clearly you're not desperate - you have the worlds greatest investors voting in support of a deal
+contribution )",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+476,2022-04-23 21:19:22 ( CDT ),44674.88845,34,Hard Reboot the organization,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+477,2022-04-23 21:20:09 ( CDT ),44674.88899,34,"Feels like no one is setting priorities ruthlessly .. 12,000 working on whatever they want ? ! ? No
+projects being cancelled ?!",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+478,2022-04-23 21:21:12 ( CDT ),44674.88972,34,"Move HQ to Austin , rent gigafactory excess space",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+479,2022-04-23 21:24:10 ( CDT ),44674.89178,34,Want to be a strategic advisor if this works out ?,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+481,2022-04-23 21:25:06 ( CDT ),44674.89243,34,100 %,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+482,2022-04-23 21:25:29 ( CDT ),44674.8927,34,"Board member , advisor , whatever ... you have my sword",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+483,2022-04-23 21:25:35 ( CDT ),44674.89277,34,"Loved "" Board member , advisor , whatever ... you have my sword """,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+484,2022-04-23 21:26:17 ( CDT ),44674.89325,34,"If 2 , 3 or 4 unlock they are each 250b + markets",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+485,2022-04-23 21:26:41 ( CDT ),44674.89353,34,"Payments is $ 250-500b , YouTube / creators is $ 250b +",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+486,2022-04-23 21:28:31 ( CDT ),44674.8948,34,"Membership no one has tried really .... So hard to estimate . 1-5m paid members maybe @
+$ 50-100 a year ? 250k corporate memberships @ 10k a year ?",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+487,2022-04-23 21:36:33 ( CDT ),44674.90038,34,You are a mind reader,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+488,2022-04-23 21:40:44 ( CDT ),44674.90329,34,Put me in the game coach !,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+489,2022-04-23 21:40:48 ( CDT ),44674.90333,34,a,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+490,2022-04-23 21:41:29 ( CDT ),44674.90381,34,Twitter CEO is my dream job,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+491,2022-04-23 21:43:39 ( CDT ),44674.90531,34,https://apple.news/AIDqUaC24Sguyc959krWlig,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+492,2022-04-23 21:43:39 ( CDT ),44674.90531,34,"we should get Mr Beast to create for twitter ... we need to win the next two generations
+( millennials and Z are "" meh "" on twitter )",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+493,2022-04-23 21:56:38 ( CDT ),44674.91433,34,For sure,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+533,2022-04-25 14:21:03 ( CDT ),44676.59795,34,Hell yeah !!,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+534,2022-04-25 14:21:26 ( CDT ),44676.59822,34,It will take a few months for the deal to complete before I'm actually in control,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+536,2022-04-25 15:12:00 ( CDT ),44676.63333,34,"Just had the best idea ever for monetization ... if you pay .01 per follower per year , you can
+DM all your followers up to 1x a day .",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+537,2022-04-25 15:12:22 ( CDT ),44676.63359,34,"500,000 follows = $ 5,000 and 1 DM them when I have new podcast episode , or I'm doing an
+event ... or my new book comes out",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+538,2022-04-25 15:14:37 ( CDT ),44676.63515,34,"And let folks slice and dice .... so , you could DM all your twitter followers in Berlin and invite
+them to the GigaRave",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+539,2022-04-25 15:14:55 ( CDT ),44676.63536,34,"Oh my lord this would unlock the power of Twitter and goose revenue massively .... Who
+wouldn't pay for this ! ? ! ?",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+540,2022-04-25 15:15:37 ( CDT ),44676.63584,34,"and if you over use the tool and are annoying folks would unfollow you ... so it's got a built in
+safe guard ( unlike email spam )",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+541,2022-04-25 15:16:11 ( CDT ),44676.63624,34,"Imagine we ask Justin Beaver to come back and let him DM his fans ... he could sell $ 10m in
+merchandise or tickets instantly , Would be INSANE for power users and companies",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+696,2022-05-02 11:32:48 ( CDT ),44683.48111,34,https://twitter.com/elonmusk/status/1521158715193315328?s=10&t=ghtc On6KY9B9C4VtlIFIO,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+698,2022-05-02 11:32:48 ( CDT ),44683.48111,34,"on thing you can do in this regard is an SPV of 250 folks capped at $ 10m .. pain on the next for a
+large company , but one item on cap table",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+699,2022-05-02 11:33:00 ( CDT ),44683.48125,34,You do have to have someone lead / manage the SPV,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+700,2022-05-02 11:34:53 ( CDT ),44683.48256,34,Go ahead,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+701,2022-05-02 11:42:30 ( CDT ),44683.48785,34,"Liked "" Go ahead """,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+702,2022-05-02 11:43:04 ( CDT ),44683.48824,34,"When you're private its fairly easy to do , but I think current shareholders have to re - up",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+703,2022-05-02 11:47:16 ( CDT ),44683.49116,34,Are you sure ?,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+704,2022-05-02 11:51:13 ( CDT ),44683.4939,34,I am not,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+705,2022-05-02 11:51:21 ( CDT ),44683.49399,34,Have never done a take private,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+706,2022-05-02 11:52:09 ( CDT ),44683.49455,34,Large shareholders ( QPs ) are likely different than non - accredited investors,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+735,2022-05-12 19:18:52 ( CDT ),44693.80477,34,What's going on with you marketing an SPV to randos ? This is not ok .,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+736,2022-05-12 19:22:58 ( CDT ),44693.80762,34,"Not randos , I have the largest angel syndicate and that's how I invest . We've done 250+ deals like
+this and we know all the folks . I though that was how folks were doing it .",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+737,2022-05-12 19:23:28 ( CDT ),44693.80796,34,"$ 100m + on commitments , but if that not ok it's fine . Just wanted to support the effort .",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+738,2022-05-12 19:25:46 ( CDT ),44693.80956,34,"~ 300 QPs and 200 accredited investors said they would do it . It's not an open process obviously ,
+only folks already in our syndicate .",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+739,2022-05-12 19:28:30 ( CDT ),44693.81146,34,There is * massive demand to support your effort btw ... people really want to see you win .,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+740,2022-05-12 19:30:30 ( CDT ),44693.81285,34,Morgan Stanley and Jared think you are using our friendship not in a good way,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+741,2022-05-12 19:31:12 ( CDT ),44693.81333,34,This makes it seem like I'm desperate .,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+742,2022-05-12 19:31:17 ( CDT ),44693.81339,34,Please stop,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+743,2022-05-12 19:31:48 ( CDT ),44693.81375,34,Only ever want to support you .,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+744,2022-05-12 19:37:49 ( CDT ),44693.81793,34,"Clearly you're not desperate - you have the worlds greatest investors voting in support of a deal
 you already have covered . you're overfunded . will quietly cancel it ... And to be clear , I'm not out
-actively soliciting folks . These are our exiting LPs not rondos . Sorry for any trouble",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-745,2022-05-12 19:55:14 ( CDT ),44693.83002314815,Morgan Stanley and Jared are very upset,34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-746,2022-05-12 19:55:55 ( CDT ),44693.83049768519,Ugh,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-747,2022-05-12 19:58:44 ( CDT ),44693.832453703704,SPVs are how everyone is doing there deals now ... Luke loved to SPVS etc,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-748,2022-05-12 19:59:13 ( CDT ),44693.83278935185,Just trying to support you ... obviously . I reached out to Jared and sort it out .,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-749,2022-05-12 20:00:53 ( CDT ),44693.83394675926,* moved,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-750,2022-05-12 20:01:54 ( CDT ),44693.834652777776,"Yes , I had to ask him to stop .",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-751,2022-05-12 20:06:45 ( CDT ),44693.83802083333,Liked " Just trying to support you ... obviously . I reached out to Jared and sort it out . ",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-752,2022-05-12 22:49:00 ( CDT ),44693.950694444444,Cleaned it up with Jared,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-753,2022-05-12 22:49:12 ( CDT ),44693.950833333336,Liked " Cleaned it up with Jared ",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-754,2022-05-12 22:49:58 ( CDT ),44693.951365740744,"I get where he is coming from .... Candidly , This deal has just captures the worlds imagination in an
-unimaginable way . It's bonkers ....",34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-755,2022-05-12 22:51:42 ( CDT ),44693.952569444446,And you know I'm ride or die brother - I'd jump on a grande for you,34,Jason Calacanis,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
-756,2022-05-12 22:51:49 ( CDT ),44693.95265046296,Loved " And you know I'm ride or die brother - I'd jump on a grande for you ",34,Self,"Jason Calacanis, Self",,"Jason Calacanis, Self",,,
+actively soliciting folks . These are our exiting LPs not rondos . Sorry for any trouble",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+745,2022-05-12 19:55:14 ( CDT ),44693.83002,34,Morgan Stanley and Jared are very upset,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+746,2022-05-12 19:55:55 ( CDT ),44693.8305,34,Ugh,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+747,2022-05-12 19:58:44 ( CDT ),44693.83245,34,SPVs are how everyone is doing there deals now ... Luke loved to SPVS etc,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+748,2022-05-12 19:59:13 ( CDT ),44693.83279,34,Just trying to support you ... obviously . I reached out to Jared and sort it out .,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+749,2022-05-12 20:00:53 ( CDT ),44693.83395,34,* moved,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+750,2022-05-12 20:01:54 ( CDT ),44693.83465,34,"Yes , I had to ask him to stop .",Self,"Jason Calacanis, Self",No,Jason Calacanis,
+751,2022-05-12 20:06:45 ( CDT ),44693.83802,34,"Liked "" Just trying to support you ... obviously . I reached out to Jared and sort it out . """,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+752,2022-05-12 22:49:00 ( CDT ),44693.95069,34,Cleaned it up with Jared,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+753,2022-05-12 22:49:12 ( CDT ),44693.95083,34,"Liked "" Cleaned it up with Jared """,Self,"Jason Calacanis, Self",No,Jason Calacanis,
+754,2022-05-12 22:49:58 ( CDT ),44693.95137,34,"I get where he is coming from .... Candidly , This deal has just captures the worlds imagination in an
+unimaginable way . It's bonkers ....",Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+755,2022-05-12 22:51:42 ( CDT ),44693.95257,34,And you know I'm ride or die brother - I'd jump on a grande for you,Jason Calacanis,"Jason Calacanis, Self",No,Jason Calacanis,
+756,2022-05-12 22:51:49 ( CDT ),44693.95265,34,"Loved "" And you know I'm ride or die brother - I'd jump on a grande for you """,Self,"Jason Calacanis, Self",No,Jason Calacanis,

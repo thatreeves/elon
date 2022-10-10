@@ -1,4 +1,4 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-371,2022-04-14 08:58:46 ( CDT ),44665.37414351852,https://ground.news/article/elon-musk-offers-to-buy-twitter-for-4139-billion_20a2b3,44,Marc Merrill ( Riot ),"Marc Merrill (Riot), Self",,"Marc Merrill (Riot), Self",,
-372,2022-04-14 08:58:46 ( CDT ),44665.37414351852,you are the hero Gotham needs - hell F'ing yes !,44,Marc Merrill ( Riot ),"Marc Merrill (Riot), Self",,"Marc Merrill (Riot), Self",,
-673,2022-04-14 11:07:26 ( CDT ),44665.46349537037,Loved " you are the hero Gotham needs - hell F'ing yes ! " Self,44,Self,"Marc Merrill (Riot), Self",,"Marc Merrill (Riot), Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+371,2022-04-14 08:58:46 ( CDT ),44665.37414,44,https://ground.news/article/elon-musk-offers-to-buy-twitter-for-4139-billion_20a2b3,Marc Merrill ( Riot ),"Marc Merrill (Riot), Self",No,Marc Merrill (Riot)
+372,2022-04-14 08:58:46 ( CDT ),44665.37414,44,you are the hero Gotham needs - hell F'ing yes !,Marc Merrill ( Riot ),"Marc Merrill (Riot), Self",No,Marc Merrill (Riot)
+673,2022-04-14 11:07:26 ( CDT ),44665.4635,44,"Loved "" you are the hero Gotham needs - hell F'ing yes ! "" Self",Self,"Marc Merrill (Riot), Self",No,Marc Merrill (Riot)

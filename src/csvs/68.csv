@@ -1,5 +1,5 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-731,2022-05-10 10:22:51 ( CDT ),44691.432534722226,Hi Elon This is Peter and my numbers . Look forward to being helpful Bob,68,Peter,"Peter, Self",,"Peter, Self",,
-732,2022-05-10 10:23:02 ( CDT ),44691.432662037034,Got it,68,Self,"Peter, Self",,"Peter, Self",,
-733,2022-05-10 10:23:26 ( CDT ),44691.43293981482,Should we use the above two numbers for the conf call ?,68,Self,"Peter, Self",,"Peter, Self",,
-734,2022-05-10 10:23:51 ( CDT ),44691.433229166665,Sure,68,Peter,"Peter, Self",,"Peter, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+731,2022-05-10 10:22:51 ( CDT ),44691.43253,68,Hi Elon This is Peter and my numbers . Look forward to being helpful Bob,Peter,"Peter, Self",No,Peter
+732,2022-05-10 10:23:02 ( CDT ),44691.43266,68,Got it,Self,"Peter, Self",No,Peter
+733,2022-05-10 10:23:26 ( CDT ),44691.43294,68,Should we use the above two numbers for the conf call ?,Self,"Peter, Self",No,Peter
+734,2022-05-10 10:23:51 ( CDT ),44691.43323,68,Sure,Peter,"Peter, Self",No,Peter

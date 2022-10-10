@@ -1,8 +1,8 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-385,2022-04-14 20:42:47 ( CDT ),44665.86304398148,Would love you to buy Twitter and fix it .,1,Adeo Ressi,"Adeo Ressi, Self",,"Adeo Ressi, Self",,
-386,2022-04-14 20:43:50 ( CDT ),44665.86377314815,Loved " Would love you to buy Twitter and fix it . ' 27,1,Self,"Adeo Ressi, Self",,"Adeo Ressi, Self",,
-683,2022-04-25 14:55:48 ( CDT ),44676.622083333335,< Attachment - image / jpeg - Elon Musk and Twitter Reach Deal on Sale Live Up .... jpeg >,1,Adeo Ressi,"Adeo Ressi, Self",,"Adeo Ressi, Self",,
-684,2022-04-25 14:55:48 ( CDT ),44676.622083333335,Congrats ? This will be a good thing .,1,Adeo Ressi,"Adeo Ressi, Self",,"Adeo Ressi, Self",,
-685,2022-04-25 14:57:36 ( CDT ),44676.62333333334,I hope so :) Self,1,Adeo Ressi,"Adeo Ressi, Self",,"Adeo Ressi, Self",,
-686,2022-04-25 14:58:55 ( CDT ),44676.624247685184,You've had ideas on how to fix that company for A LONG TIME . The time is now .,1,Adeo Ressi,"Adeo Ressi, Self",,"Adeo Ressi, Self",,
-687,2022-04-25 15:03:20 ( CDT ),44676.62731481482,I think it's exciting .,1,Adeo Ressi,"Adeo Ressi, Self",,"Adeo Ressi, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+385,2022-04-14 20:42:47 ( CDT ),44665.86304,1,Would love you to buy Twitter and fix it .,Adeo Ressi,"Adeo Ressi, Self",No,Adeo Ressi
+386,2022-04-14 20:43:50 ( CDT ),44665.86377,1,"Loved "" Would love you to buy Twitter and fix it . ' 27",Self,"Adeo Ressi, Self",No,Adeo Ressi
+683,2022-04-25 14:55:48 ( CDT ),44676.62208,1,< Attachment - image / jpeg - Elon Musk and Twitter Reach Deal on Sale Live Up .... jpeg >,Adeo Ressi,"Adeo Ressi, Self",No,Adeo Ressi
+684,2022-04-25 14:55:48 ( CDT ),44676.62208,1,Congrats ? This will be a good thing .,Adeo Ressi,"Adeo Ressi, Self",No,Adeo Ressi
+685,2022-04-25 14:57:36 ( CDT ),44676.62333,1,I hope so :) Self,Adeo Ressi,"Adeo Ressi, Self",No,Adeo Ressi
+686,2022-04-25 14:58:55 ( CDT ),44676.62425,1,You've had ideas on how to fix that company for A LONG TIME . The time is now .,Adeo Ressi,"Adeo Ressi, Self",No,Adeo Ressi
+687,2022-04-25 15:03:20 ( CDT ),44676.62731,1,I think it's exciting .,Adeo Ressi,"Adeo Ressi, Self",No,Adeo Ressi

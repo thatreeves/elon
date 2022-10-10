@@ -1,24 +1,24 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-606,2022-04-27 21:30:05 ( CDT ),44678.895891203705,Great . I will put you in touch with Satya .,53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-607,2022-04-27 21:30:39 ( CDT ),44678.89628472222,Sounds good,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-609,2022-04-27 21:30:57 ( CDT ),44678.89649305555,Do you want to invest in Twitter take private ?,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-614,2022-04-27 21:34:04 ( CDT ),44678.89865740741,It's way beyond my resources . I presume you are not interested in venture $ .,53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-623,2022-04-27 22:02:10 ( CDT ),44678.918171296296,"There is plenty of financial support , but you're a friend , so just letting you know you'd get
-priority . VC money is fine if you want .",53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-627,2022-04-28 12:11:46 ( CDT ),44679.50817129629,"Very cool ! OK - if I were to put together $ , what size could you make available ?",53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-629,2022-04-28 12:13:21 ( CDT ),44679.50927083333,Whatever you'd like . I will just cut back others .,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-630,2022-04-28 12:13:55 ( CDT ),44679.509664351855,I would need to know the approximate by next week,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-631,2022-04-28 12:22:16 ( CDT ),44679.51546296296,"What would be the largest $ that would be ok ? I consulted with our LPs , and I have strong
-demand . Would be funl",53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-632,2022-04-28 12:33:56 ( CDT ),44679.523564814815,$ 2B ?,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-633,2022-04-28 12:46:11 ( CDT ),44679.53207175926,Great . Probably doable - let me see .,53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-634,2022-04-28 12:50:08 ( CDT ),44679.53481481481,"Can be less if easier . The round is oversubscribed , so I just have to tell other investors what
-their allocation is ideally by early next week .",53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-637,2022-04-28 15:38:10 ( CDT ),44679.651504629626,Should I connect you with the Morgan Stanley team ?,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-638,2022-04-28 15:38:40 ( CDT ),44679.65185185185,"Yes please . Especially with the terms , etc. I know Michael Grimes , btw .",53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-641,2022-04-28 16:08:01 ( CDT ),44679.67223379629,Please feel free to call him directly
-wwwwwwwwwww,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-643,2022-04-28 16:09:22 ( CDT ),44679.673171296294,OK- I'll do that . ( Trying to simplify your massively busy life . ),53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-644,2022-04-28 16:14:13 ( CDT ),44679.67653935185,The Morgan Stanley deal team is truly excellent and I don't say such things lightly .,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-650,2022-04-28 17:05:50 ( CDT ),44679.71238425926,Indeed ! I took U public and the MSFT - LI deal with them !,53,Reid Hoffman,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
-694,2022-04-27 19:51:21 ( CDT ),44678.82732638889,This is Elon,53,Self,"Reid Hoffman, Self",,"Reid Hoffman, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+606,2022-04-27 21:30:05 ( CDT ),44678.89589,53,Great . I will put you in touch with Satya .,Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+607,2022-04-27 21:30:39 ( CDT ),44678.89628,53,Sounds good,Self,"Reid Hoffman, Self",No,Reid Hoffman
+609,2022-04-27 21:30:57 ( CDT ),44678.89649,53,Do you want to invest in Twitter take private ?,Self,"Reid Hoffman, Self",No,Reid Hoffman
+614,2022-04-27 21:34:04 ( CDT ),44678.89866,53,It's way beyond my resources . I presume you are not interested in venture $ .,Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+623,2022-04-27 22:02:10 ( CDT ),44678.91817,53,"There is plenty of financial support , but you're a friend , so just letting you know you'd get
+priority . VC money is fine if you want .",Self,"Reid Hoffman, Self",No,Reid Hoffman
+627,2022-04-28 12:11:46 ( CDT ),44679.50817,53,"Very cool ! OK - if I were to put together $ , what size could you make available ?",Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+629,2022-04-28 12:13:21 ( CDT ),44679.50927,53,Whatever you'd like . I will just cut back others .,Self,"Reid Hoffman, Self",No,Reid Hoffman
+630,2022-04-28 12:13:55 ( CDT ),44679.50966,53,I would need to know the approximate by next week,Self,"Reid Hoffman, Self",No,Reid Hoffman
+631,2022-04-28 12:22:16 ( CDT ),44679.51546,53,"What would be the largest $ that would be ok ? I consulted with our LPs , and I have strong
+demand . Would be funl",Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+632,2022-04-28 12:33:56 ( CDT ),44679.52356,53,$ 2B ?,Self,"Reid Hoffman, Self",No,Reid Hoffman
+633,2022-04-28 12:46:11 ( CDT ),44679.53207,53,Great . Probably doable - let me see .,Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+634,2022-04-28 12:50:08 ( CDT ),44679.53481,53,"Can be less if easier . The round is oversubscribed , so I just have to tell other investors what
+their allocation is ideally by early next week .",Self,"Reid Hoffman, Self",No,Reid Hoffman
+637,2022-04-28 15:38:10 ( CDT ),44679.6515,53,Should I connect you with the Morgan Stanley team ?,Self,"Reid Hoffman, Self",No,Reid Hoffman
+638,2022-04-28 15:38:40 ( CDT ),44679.65185,53,"Yes please . Especially with the terms , etc. I know Michael Grimes , btw .",Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+641,2022-04-28 16:08:01 ( CDT ),44679.67223,53,"Please feel free to call him directly
+wwwwwwwwwww",Self,"Reid Hoffman, Self",No,Reid Hoffman
+643,2022-04-28 16:09:22 ( CDT ),44679.67317,53,OK- I'll do that . ( Trying to simplify your massively busy life . ),Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+644,2022-04-28 16:14:13 ( CDT ),44679.67654,53,The Morgan Stanley deal team is truly excellent and I don't say such things lightly .,Self,"Reid Hoffman, Self",No,Reid Hoffman
+650,2022-04-28 17:05:50 ( CDT ),44679.71238,53,Indeed ! I took U public and the MSFT - LI deal with them !,Reid Hoffman,"Reid Hoffman, Self",No,Reid Hoffman
+694,2022-04-27 19:51:21 ( CDT ),44678.82733,53,This is Elon,Self,"Reid Hoffman, Self",No,Reid Hoffman

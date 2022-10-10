@@ -1,2 +1,2 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-708,2022-05-05 10:45:04 ( CDT ),44686.447962962964,"Sorry , who is sending this message ?",54,Self,"Sam BF, Self",,"Sam BF, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+708,2022-05-05 10:45:04 ( CDT ),44686.44796,54,"Sorry , who is sending this message ?",Self,"Sam BF, Self",No,Sam BF

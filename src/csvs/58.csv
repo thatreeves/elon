@@ -1,2 +1,2 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-695,2022-05-01 15:17:24 ( CDT ),44682.637083333335,"Am at my Mom's apartment , doing Twitter diligence calls",58,Self,"Sean Parker, Self",,"Sean Parker, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+695,2022-05-01 15:17:24 ( CDT ),44682.63708,58,"Am at my Mom's apartment , doing Twitter diligence calls",Self,"Sean Parker, Self",No,Sean Parker

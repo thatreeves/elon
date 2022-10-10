@@ -1,45 +1,45 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-1,2022-01-21 23:09:53 ( CST ),44582.96519675926,Elon - are you able to access your Twitter account ok ? I saw a number of emails held in spam .
-Including some password resets attempts,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-2,2022-01-21 23:17:30 ( CST ),44582.97048611111,I haven't tried recently,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-3,2022-01-21 23:17:41 ( CST ),44582.970613425925,Am staying off twitter,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-4,2022-01-21 23:17:59 ( CST ),44582.970821759256,Is my twitter account posting anything ?,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-5,2022-01-21 23:19:31 ( CST ),44582.97188657407,Not posting but I see one deactivation email and a dozen password reset emails . Assuming
-this is a scammer attempt but wanted to check to ensure you still had access to your Twitter,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-6,2022-01-21 23:19:52 ( CST ),44582.97212962963,It is someone trying to hack my twitter,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-7,2022-01-21 23:20:05 ( CST ),44582.972280092596,But I have two - factor enabled with the confirmation app,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-8,2022-01-21 23:21:43 ( CST ),44582.97341435185,"OK , great to hear .",2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-9,2022-01-24 19:18:07 ( CST ),44585.804247685184,Yes - FaceTimed with them to confirm my identity ( hah ) and they are hopefully gonna reset
-your ZFA to SMS soon . Asking for an update now,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-10,2022-01-24 19:21:36 ( CST ),44585.806666666664,Sounds good,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-11,2022-01-24 19:21:47 ( CST ),44585.80679398148,I can also FaceTime with them if still a problem,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-12,2022-01-24 20:03:55 ( CST ),44585.83605324074,Tldr ; your account is considered high profile internally over there . So they've made it very
-hard to make changes like this by their teams . They are working through it ....,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-13,2022-01-24 20:05:28 ( CST ),44585.83712962963,Happy to FaceTime directly,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-14,2022-01-24 20:13:38 ( CST ),44585.84280092592,"Not sure how I was able to make Twitter work on this new phone , as I didn't use the backup
-code .",2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-15,2022-01-24 20:14:43 ( CST ),44585.84355324074,Connecting with their head of Trust & Safety now,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-16,2022-01-24 20:14:59 ( CST ),44585.84373842592,"I assume we used your old phone to verify the new , once upon a time",2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-17,2022-01-24 20:38:37 ( CST ),44585.86015046296,Oh yeah,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-18,2022-01-24 20:57:33 ( CST ),44585.87329861111,They can fix it by disabling all 2FA for your account which will let you in and then you can re
-enable it . Are you available in 90 mins to have them coordinate it ?,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-19,2022-01-24 20:58:09 ( CST ),44585.873715277776,Liked " They can fix it by disabling all 2FA for your account which will let you in and then you
-can re - enable it . Are you available in 90 mins to have them coordinate it ? ",2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-20,2022-01-24 21:07:11 ( CST ),44585.87998842593,"I know things are in flux right now , but is EMDesk SpaceX still your primary calendar ? I realize
-there a meeting on there in 1 hour . In case I should move this twitter fix out a bit .",2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-21,2022-01-24 21:35:41 ( CST ),44585.89978009259,Yeah,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-22,2022-01-24 21:36:08 ( CST ),44585.900092592594,But I can step off the call briefly to FaceTime them if need be,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-23,2022-01-24 21:40:48 ( CST ),44585.903333333335,Sounds good . And ideally I'm just texting you to sign in once they disable 2FA and then you
-can immediately sign in and re - enable . No FaceTime needed .,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-24,2022-01-24 21:58:28 ( CST ),44585.915601851855,Liked " Sounds good . And ideally I'm just texting you to sign in once they disable 2FA and then
-you can immediately sign in and re - enable . No FaceTime needed . ",2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-25,2022-01-24 22:33:16 ( CST ),44585.93976851852,Elon- we are ready to make the change if you are,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-26,2022-01-24 22:35:02 ( CST ),44585.94099537037,Liked " Elon - we are ready to make the change if you are ",2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-27,2022-01-24 22:36:04 ( CST ),44585.941712962966,2FA disabled . Please try to log in now,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-28,2022-01-24 22:40:56 ( CST ),44585.94509259259,Able to get back in ok ?,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-29,2022-01-24 22:50:51 ( CST ),44585.95197916667,Liked " Able to get back in ok ? ",2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-30,2022-01-24 22:51:39 ( CST ),44585.95253472222,And once in you can enable 2FA Settings > Security and account access > Security > 2FA,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-31,2022-01-24 22:51:47 ( CST ),44585.952627314815,App only is suggested,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-32,2022-01-24 22:55:33 ( CST ),44585.955243055556,Thanks !,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-33,2022-01-24 23:00:29 ( CST ),44585.95866898148,And reminder to save that backup code,2,Alex Stillings,"Alex Stillings, Self",1,"Alex Stillings, Self",,
-34,2022-01-24 23:13:08 ( CST ),44585.967453703706,Liked " And reminder to save that backup code 11,2,Self,"Alex Stillings, Self",1,"Alex Stillings, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+1,2022-01-21 23:09:53 ( CST ),44582.9652,2,"Elon - are you able to access your Twitter account ok ? I saw a number of emails held in spam .
+Including some password resets attempts",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+2,2022-01-21 23:17:30 ( CST ),44582.97049,2,I haven't tried recently,Self,"Alex Stillings, Self",No,Alex Stillings
+3,2022-01-21 23:17:41 ( CST ),44582.97061,2,Am staying off twitter,Self,"Alex Stillings, Self",No,Alex Stillings
+4,2022-01-21 23:17:59 ( CST ),44582.97082,2,Is my twitter account posting anything ?,Self,"Alex Stillings, Self",No,Alex Stillings
+5,2022-01-21 23:19:31 ( CST ),44582.97189,2,"Not posting but I see one deactivation email and a dozen password reset emails . Assuming
+this is a scammer attempt but wanted to check to ensure you still had access to your Twitter",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+6,2022-01-21 23:19:52 ( CST ),44582.97213,2,It is someone trying to hack my twitter,Self,"Alex Stillings, Self",No,Alex Stillings
+7,2022-01-21 23:20:05 ( CST ),44582.97228,2,But I have two - factor enabled with the confirmation app,Self,"Alex Stillings, Self",No,Alex Stillings
+8,2022-01-21 23:21:43 ( CST ),44582.97341,2,"OK , great to hear .",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+9,2022-01-24 19:18:07 ( CST ),44585.80425,2,"Yes - FaceTimed with them to confirm my identity ( hah ) and they are hopefully gonna reset
+your ZFA to SMS soon . Asking for an update now",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+10,2022-01-24 19:21:36 ( CST ),44585.80667,2,Sounds good,Self,"Alex Stillings, Self",No,Alex Stillings
+11,2022-01-24 19:21:47 ( CST ),44585.80679,2,I can also FaceTime with them if still a problem,Self,"Alex Stillings, Self",No,Alex Stillings
+12,2022-01-24 20:03:55 ( CST ),44585.83605,2,"Tldr ; your account is considered high profile internally over there . So they've made it very
+hard to make changes like this by their teams . They are working through it ....",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+13,2022-01-24 20:05:28 ( CST ),44585.83713,2,Happy to FaceTime directly,Self,"Alex Stillings, Self",No,Alex Stillings
+14,2022-01-24 20:13:38 ( CST ),44585.8428,2,"Not sure how I was able to make Twitter work on this new phone , as I didn't use the backup
+code .",Self,"Alex Stillings, Self",No,Alex Stillings
+15,2022-01-24 20:14:43 ( CST ),44585.84355,2,Connecting with their head of Trust & Safety now,Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+16,2022-01-24 20:14:59 ( CST ),44585.84374,2,"I assume we used your old phone to verify the new , once upon a time",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+17,2022-01-24 20:38:37 ( CST ),44585.86015,2,Oh yeah,Self,"Alex Stillings, Self",No,Alex Stillings
+18,2022-01-24 20:57:33 ( CST ),44585.8733,2,"They can fix it by disabling all 2FA for your account which will let you in and then you can re
+enable it . Are you available in 90 mins to have them coordinate it ?",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+19,2022-01-24 20:58:09 ( CST ),44585.87372,2,"Liked "" They can fix it by disabling all 2FA for your account which will let you in and then you
+can re - enable it . Are you available in 90 mins to have them coordinate it ? """,Self,"Alex Stillings, Self",No,Alex Stillings
+20,2022-01-24 21:07:11 ( CST ),44585.87999,2,"I know things are in flux right now , but is EMDesk SpaceX still your primary calendar ? I realize
+there a meeting on there in 1 hour . In case I should move this twitter fix out a bit .",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+21,2022-01-24 21:35:41 ( CST ),44585.89978,2,Yeah,Self,"Alex Stillings, Self",No,Alex Stillings
+22,2022-01-24 21:36:08 ( CST ),44585.90009,2,But I can step off the call briefly to FaceTime them if need be,Self,"Alex Stillings, Self",No,Alex Stillings
+23,2022-01-24 21:40:48 ( CST ),44585.90333,2,"Sounds good . And ideally I'm just texting you to sign in once they disable 2FA and then you
+can immediately sign in and re - enable . No FaceTime needed .",Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+24,2022-01-24 21:58:28 ( CST ),44585.9156,2,"Liked "" Sounds good . And ideally I'm just texting you to sign in once they disable 2FA and then
+you can immediately sign in and re - enable . No FaceTime needed . """,Self,"Alex Stillings, Self",No,Alex Stillings
+25,2022-01-24 22:33:16 ( CST ),44585.93977,2,Elon- we are ready to make the change if you are,Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+26,2022-01-24 22:35:02 ( CST ),44585.941,2,"Liked "" Elon - we are ready to make the change if you are """,Self,"Alex Stillings, Self",No,Alex Stillings
+27,2022-01-24 22:36:04 ( CST ),44585.94171,2,2FA disabled . Please try to log in now,Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+28,2022-01-24 22:40:56 ( CST ),44585.94509,2,Able to get back in ok ?,Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+29,2022-01-24 22:50:51 ( CST ),44585.95198,2,"Liked "" Able to get back in ok ? """,Self,"Alex Stillings, Self",No,Alex Stillings
+30,2022-01-24 22:51:39 ( CST ),44585.95253,2,And once in you can enable 2FA Settings > Security and account access > Security > 2FA,Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+31,2022-01-24 22:51:47 ( CST ),44585.95263,2,App only is suggested,Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+32,2022-01-24 22:55:33 ( CST ),44585.95524,2,Thanks !,Self,"Alex Stillings, Self",No,Alex Stillings
+33,2022-01-24 23:00:29 ( CST ),44585.95867,2,And reminder to save that backup code,Alex Stillings,"Alex Stillings, Self",No,Alex Stillings
+34,2022-01-24 23:13:08 ( CST ),44585.96745,2,"Liked "" And reminder to save that backup code 11",Self,"Alex Stillings, Self",No,Alex Stillings

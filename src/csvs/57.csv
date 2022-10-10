@@ -1,7 +1,7 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-618,2022-04-27 21:39:38 ( CDT ),44678.90252314815,Hi Elon .. Let me know when you have time to chat . Can do tomorrow evening or weekend .
-Look forward to it . Thx Satya,57,Satya,"Satya, Self",,"Satya, Self",,
-619,2022-04-27 21:40:12 ( CDT ),44678.902916666666,I can talk now if you want,57,Self,"Satya, Self",,"Satya, Self",,
-621,2022-04-27 21:40:40 ( CDT ),44678.90324074074,Calling,57,Satya,"Satya, Self",,"Satya, Self",,
-622,2022-04-27 22:01:46 ( CDT ),44678.91789351852,Thx for the chat . Will stay in touch . And will for sure follow - up on Teams feedback !,57,Satya,"Satya, Self",,"Satya, Self",,
-624,2022-04-27 22:02:21 ( CDT ),44678.91829861111,Sounds good :),57,Self,"Satya, Self",,"Satya, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+618,2022-04-27 21:39:38 ( CDT ),44678.90252,57,"Hi Elon .. Let me know when you have time to chat . Can do tomorrow evening or weekend .
+Look forward to it . Thx Satya",Satya,"Satya, Self",No,Satya
+619,2022-04-27 21:40:12 ( CDT ),44678.90292,57,I can talk now if you want,Self,"Satya, Self",No,Satya
+621,2022-04-27 21:40:40 ( CDT ),44678.90324,57,Calling,Satya,"Satya, Self",No,Satya
+622,2022-04-27 22:01:46 ( CDT ),44678.91789,57,Thx for the chat . Will stay in touch . And will for sure follow - up on Teams feedback !,Satya,"Satya, Self",No,Satya
+624,2022-04-27 22:02:21 ( CDT ),44678.9183,57,Sounds good :),Self,"Satya, Self",No,Satya

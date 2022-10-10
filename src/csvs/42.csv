@@ -1,19 +1,17 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-79,2022-03-27 02:06:17 ( CDT ),44647.087696759256,"Elon , I'd like to chat with you in the next day or so ... I do think we need another Twitter",42,Larry Ellison,"Larry Ellison,
-Self",1,"Larry Ellison,
-Self",,
-80,2022-03-27 02:47:25 ( CDT ),44647.116261574076,Want to talk now ?,42,Self,"Larry Ellison,
-Self",1,"Larry Ellison,
-Self",,
-422,2022-04-20 13:15:32 ( CDT ),44671.552453703705,Any interest in participating in the Twitter deal ?,42,Self,"Larry Ellison, Self",,"Larry Ellison, Self",,
-424,2022-04-20 16:22:08 ( CDT ),44671.68203703704,Yes ... of course,42,Larry Ellison,"Larry Ellison, Self",,"Larry Ellison, Self",,
-425,2022-04-20 16:22:57 ( CDT ),44671.682604166665,Cool,42,Self,"Larry Ellison, Self",,"Larry Ellison, Self",,
-427,2022-04-20 16:25:14 ( CDT ),44671.68418981481,"Roughly what dollar size ? Not holding you to anything , but the deal is oversubscribed , so I
-have to reduce or kick out some participants .",42,Self,"Larry Ellison, Self",,"Larry Ellison, Self",,
-428,2022-04-20 16:26:19 ( CDT ),44671.68494212963,A billion ... or whatever you recommend,42,Larry Ellison,"Larry Ellison, Self",,"Larry Ellison, Self",,
-430,2022-04-20 16:29:21 ( CDT ),44671.687048611115,Whatever works for you . I'd recommend maybe $ 2B or more . This has very high potential and
-I'd rather have you than anyone else .,42,Self,"Larry Ellison, Self",,"Larry Ellison, Self",,
-431,2022-04-20 17:42:16 ( CDT ),44671.73768518519,I agree that it has huge potential ... and it would be lots of fun,42,Larry Ellison,"Larry Ellison, Self",,"Larry Ellison, Self",,
-432,2022-04-20 18:14:49 ( CDT ),44671.76028935185,Absolutely :),42,Self,"Larry Ellison, Self",,"Larry Ellison, Self",,
-506,2022-04-24 22:44:44 ( CDT ),44675.94773148148,Since you think I should come in for at least $ 2B ... I'm in for $ 2B,42,Larry Ellison,"Larry Ellison, Self",,"Larry Ellison, Self",,
-507,2022-04-24 22:51:09 ( CDT ),44675.9521875,Haha thanks :),42,Self,"Larry Ellison, Self",,"Larry Ellison, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+79,2022-03-27 02:06:17 ( CDT ),44647.0877,42,"Elon , I'd like to chat with you in the next day or so ... I do think we need another Twitter",Larry Ellison,"Larry Ellison,
+Self",No,Larry Ellison
+80,2022-03-27 02:47:25 ( CDT ),44647.11626,42,Want to talk now ?,Self,"Larry Ellison,
+Self",No,Larry Ellison
+422,2022-04-20 13:15:32 ( CDT ),44671.55245,42,Any interest in participating in the Twitter deal ?,Self,"Larry Ellison, Self",No,Larry Ellison
+424,2022-04-20 16:22:08 ( CDT ),44671.68204,42,Yes ... of course,Larry Ellison,"Larry Ellison, Self",No,Larry Ellison
+425,2022-04-20 16:22:57 ( CDT ),44671.6826,42,Cool,Self,"Larry Ellison, Self",No,Larry Ellison
+427,2022-04-20 16:25:14 ( CDT ),44671.68419,42,"Roughly what dollar size ? Not holding you to anything , but the deal is oversubscribed , so I
+have to reduce or kick out some participants .",Self,"Larry Ellison, Self",No,Larry Ellison
+428,2022-04-20 16:26:19 ( CDT ),44671.68494,42,A billion ... or whatever you recommend,Larry Ellison,"Larry Ellison, Self",No,Larry Ellison
+430,2022-04-20 16:29:21 ( CDT ),44671.68705,42,"Whatever works for you . I'd recommend maybe $ 2B or more . This has very high potential and
+I'd rather have you than anyone else .",Self,"Larry Ellison, Self",No,Larry Ellison
+431,2022-04-20 17:42:16 ( CDT ),44671.73769,42,I agree that it has huge potential ... and it would be lots of fun,Larry Ellison,"Larry Ellison, Self",No,Larry Ellison
+432,2022-04-20 18:14:49 ( CDT ),44671.76029,42,Absolutely :),Self,"Larry Ellison, Self",No,Larry Ellison
+506,2022-04-24 22:44:44 ( CDT ),44675.94773,42,Since you think I should come in for at least $ 2B ... I'm in for $ 2B,Larry Ellison,"Larry Ellison, Self",No,Larry Ellison
+507,2022-04-24 22:51:09 ( CDT ),44675.95219,42,Haha thanks :),Self,"Larry Ellison, Self",No,Larry Ellison

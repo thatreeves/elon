@@ -1,7 +1,7 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-257,2022-04-06 00:19:20 ( CDT ),44657.01342592593,"If you plan on joining the Nom / Gov or Comp Committees , Imk and I can give you some tips !
-Haha !",19,Ira Ehrenpreis,"Ira Ehrenpreis, Self",,"Ira Ehrenpreis, Self",,
-258,2022-04-06 00:26:24 ( CDT ),44657.01833333333,"Haha , I didn't even want to join the Twitter board ! They pushed really hard to have me join .",19,Self,"Ira Ehrenpreis, Self",,"Ira Ehrenpreis, Self",,
-259,2022-04-06 00:27:08 ( CDT ),44657.018842592595,You're a pushover !,19,Ira Ehrenpreis,"Ira Ehrenpreis, Self",,"Ira Ehrenpreis, Self",,
-260,2022-04-06 00:29:09 ( CDT ),44657.02024305556,And you already got them to try the edit ! Oh yeah ... it had already been in the works . Sure .,19,Ira Ehrenpreis,"Ira Ehrenpreis, Self",,"Ira Ehrenpreis, Self",,
-261,2022-04-06 01:23:02 ( CDT ),44657.057662037034,"It was actually in the works , but I didn't know .",19,Self,"Ira Ehrenpreis, Self",,"Ira Ehrenpreis, Self",,
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+257,2022-04-06 00:19:20 ( CDT ),44657.01343,19,"If you plan on joining the Nom / Gov or Comp Committees , Imk and I can give you some tips !
+Haha !",Ira Ehrenpreis,"Ira Ehrenpreis, Self",No,Ira Ehrenpreis
+258,2022-04-06 00:26:24 ( CDT ),44657.01833,19,"Haha , I didn't even want to join the Twitter board ! They pushed really hard to have me join .",Self,"Ira Ehrenpreis, Self",No,Ira Ehrenpreis
+259,2022-04-06 00:27:08 ( CDT ),44657.01884,19,You're a pushover !,Ira Ehrenpreis,"Ira Ehrenpreis, Self",No,Ira Ehrenpreis
+260,2022-04-06 00:29:09 ( CDT ),44657.02024,19,And you already got them to try the edit ! Oh yeah ... it had already been in the works . Sure .,Ira Ehrenpreis,"Ira Ehrenpreis, Self",No,Ira Ehrenpreis
+261,2022-04-06 01:23:02 ( CDT ),44657.05766,19,"It was actually in the works , but I didn't know .",Self,"Ira Ehrenpreis, Self",No,Ira Ehrenpreis

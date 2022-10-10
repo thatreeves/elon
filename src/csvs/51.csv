@@ -1,8 +1,8 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-387,2022-04-15 16:50:46 ( CDT ),44666.7019212963,"Thank you for what you're doing . We all love you and are always behind you ! Not having a
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+387,2022-04-15 16:50:46 ( CDT ),44666.70192,51,"Thank you for what you're doing . We all love you and are always behind you ! Not having a
 global platform that is truly free speech is dangerous for all . Companies are all adopting
 some form of content moderation and it's all dependent on ownership on how it shifts and
-advertisers paying them , as you've said .",51,Omead Afshar,"Omead Afshar, Self",,"Omead Afshar, Self",,
-388,2022-04-15 16:51:24 ( CDT ),44666.702361111114,Who knew a Saudi Arabian prince had so much leverage and so much to say about twitter .,51,Omead Afshar,"Omead Afshar, Self",,"Omead Afshar, Self",,
-676,2022-04-15 16:51:45 ( CDT ),44666.70260416667,Laughed at " Who knew a Saudi Arabian prince had so much leverage and so much to say about
-twitter . ",51,Self,"Omead Afshar, Self",,"Omead Afshar, Self",,
+advertisers paying them , as you've said .",Omead Afshar,"Omead Afshar, Self",No,Omead Afshar
+388,2022-04-15 16:51:24 ( CDT ),44666.70236,51,Who knew a Saudi Arabian prince had so much leverage and so much to say about twitter .,Omead Afshar,"Omead Afshar, Self",No,Omead Afshar
+676,2022-04-15 16:51:45 ( CDT ),44666.7026,51,"Laughed at "" Who knew a Saudi Arabian prince had so much leverage and so much to say about
+twitter . """,Self,"Omead Afshar, Self",No,Omead Afshar

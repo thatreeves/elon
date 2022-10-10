@@ -1,7 +1,7 @@
-ID,Date,Date - Clean,Content,ConvoID,Sender,Participants,Participant Count,Participants,Incomplete,ConvoEnd
-594,,,"Hi Elon , This is Maddie , Larry Ellison's assistant . Larry asked that I connect the head of his
+ID,Date,Date - Clean,ConvoID,Content,Sender,Participants,Group,ParticipantsClean
+594,2022-04-27 18:46:06 ( CDT ),44678.78201,67,"Hi Elon , This is Maddie , Larry Ellison's assistant . Larry asked that I connect the head of his
 family office , Paul Marinelli , with the head of yours . Would you please share their contact
-details ? Alternatively , please provide them with Paul's : Cell : 408-483-5041 Email :",67,Maddie,"Maddie, Self",,"Maddie, Self",,
-595,2022-04-27 18:46:06 ( CDT ),44678.782013888886,paulm@lawrenceinv.com,67,Maddie,"Maddie, Self",,"Maddie, Self",,
-596,2022-04-27 18:56:01 ( CDT ),44678.78890046296,Jared@excession.com,67,Self,"Maddie, Self",,"Maddie, Self",,
-597,2022-04-27 18:57:20 ( CDT ),44678.789814814816,Thank you .,67,Self,"Maddie, Self",,"Maddie, Self",,
+details ? Alternatively , please provide them with Paul's : Cell : XXX-XXX-XXXX Email :",Maddie,"Maddie, Self",No,Maddie
+595,2022-04-27 18:46:06 ( CDT ),44678.78201,67,paulm@lawrenceinv.com,Maddie,"Maddie, Self",No,Maddie
+596,2022-04-27 18:56:01 ( CDT ),44678.7889,67,Jared@excession.com,Self,"Maddie, Self",No,Maddie
+597,2022-04-27 18:57:20 ( CDT ),44678.78981,67,Thank you .,Self,"Maddie, Self",No,Maddie
