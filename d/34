@@ -1,0 +1,396 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Musk Message</title>
+    <link rel="stylesheet" href="../dist/output.css">
+    <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet">
+  </head>
+  <body class="bg-gray-800">
+  <nav class="flex flex-col justify-center w-full text-white bg-gray-900">
+        <a href="/">
+            <h1 class="text-lg font-bold text-center my-2">Elon's iMessages</h1>
+        </a>
+        <p class="mb-10 text-sm text-center md:hidden">We've aimed to be as accurate as possible, but we can't guarantee accuracy or validity. Also, some of the documents were redacted, so some messages don't make sense. </p>
+    </nav>
+    <div class="w-full max-w-screen-lg mx-auto flex flex-row mt-4">
+
+    <div class="flex w-full min-h-[90vh] max-w-[600px]  lg:w-1/2">
+            <div class="flex w-full max-w-[600px] ">
+                
+                <div class="flex imessage w-full pt-0">
+                    <div class="w-full flex flex-col sticky top-0 z-50 bg-blend-screen backdrop-blur-sm bg-white/90 pt-4 pb-2 text-base border-b">
+                        <div class="w-full flex flex-col self-center">
+                            <div class="flex font-bold self-center text-base p-0 m-0 font-['SF Pro Display']">Jason Calacanis</div>
+                        </div>
+                        <div class="w-full flex flex-row justify-between">
+                            <div class="flex max-w-[40px]"><a href="./../"><img  src="../img/Arrow.png" /></a></div>
+                            <div class="flex max-w-[30px] flex-col justify-center"><div><img  src="../img/Facetime.png" /></a></div></div>
+                        </div>
+                    </div>
+
+                    <div class="flex w-full flex-col">
+                        
+<div class="text-xs text-grey-600 mt-2">2022-04-14 11:58:19 ( CDT )</div>
+<p class="from-them">You should raise your offer</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-14 11:58:25 ( CDT )</div>
+<p class="from-them">54.21</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-14 11:58:37 ( CDT )</div>
+<p class="from-them">The perfect counter</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-14 12:00:48 ( CDT )</div>
+<p class="from-them">You could easily clean up bots and spam and make the service viable for many more users
+Removing bots and spam is a lot less complicated than what the Tesla self driving team is
+doing ( based on hearing the last edge case meeting )
+-</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-14 12:01:16 ( CDT )</div>
+<p class="from-them">And why should blue check marks be limited to the elite , press and celebrities ? How is that
+democratic ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-14 12:04:52 ( CDT )</div>
+<p class="from-them">The Kingdom would like a word ..
+https://twitter.com/Alwaleed_Talal/status/1514615956986757127?s=20&t=2q4VfMBXrldYGj
+3vFN_row @</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:06:33 ( CDT )</div>
+<p class="from-them">Back of the envelope ... Twitter revenue per employee : $ 5B rev / 8k employees = $ 625K rev
+per employee in 2021 Google revenue per employee : $ 257B rev / 135K employee = $ 1.9M
+per employee in 2021 Apple revenue per employee : $ 365B rev / 154k employees = $ 2.37M
+per employee in fiscal 2021</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:08:07 ( CDT )</div>
+<p class="from-them">Twitter revenue per employee if 3k instead of 8k : $ 5B rev / 3k employees = $ 1.66m rev per
+employee in 2021 ( more industry standard )</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:17:34 ( CDT )</div>
+<p class="from-me">Emphasized " Back of the envelope ... Twitter revenue per employee : $ 5B rev / 8k employees
+= $ 625K rev per employee in 2021 Google revenue per employee : $ 257B rev / 135K
+employee = $ 1.9M per employee in 2021 Apple revenue per employee : $ 365B rev / 154k
+employees = $ 2.37M per employee in fiscal 2021 "</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:17:48 ( CDT )</div>
+<p class="from-me">Insane potential for improvement</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:21:45 ( CDT )</div>
+<p class="from-them">< Attachment - image / gif - IMG_2241.GIF ></p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:21:45 ( CDT )</div>
+<p class="from-them">Day zero</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:22:12 ( CDT )</div>
+<p class="from-them">Sharpen your blades boys</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:22:59 ( CDT )</div>
+<p class="from-them">2 day a week Office requirement = 20 % voluntary departures</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:28:58 ( CDT )</div>
+<p class="from-them">https://twitter.com/jason/status/1515094823337832448?s=10&t=CWr2U7sH4cuVOsahPgiKR</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:29:11 ( CDT )</div>
+<p class="from-them">I mean , the product road map is beyond obviously</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:29:51 ( CDT )</div>
+<p class="from-them">Premium feature abound ... and twitter blue has exactly zero</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:30:23 ( CDT )</div>
+<p class="from-them">What committee came up with the list of dog shit features in Blue ? ! ? It's worth paying to turn
+it off !</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-15 17:44:35 ( CDT )</div>
+<p class="from-me">Yeah , what an insane piece of shit !</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 01:46:40 ( CDT )</div>
+<p class="from-them">Maybe we don't talk twitter on twitter DM</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 01:49:49 ( CDT )</div>
+<p class="from-me">Was just thinking that haha</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 01:50:38 ( CDT )</div>
+<p class="from-me">Nothing said there so far is anything different from what I said publicly .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 01:51:10 ( CDT )</div>
+<p class="from-me">Btw , Parag is still on a ten day vacation in Hawaii</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 01:57:28 ( CDT )</div>
+<p class="from-them">No reason to cut it short ... in your first tour as ceo</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 01:57:33 ( CDT )</div>
+<p class="from-them">( !!! )</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 01:57:46 ( CDT )</div>
+<p class="from-them">Shouldn't he be in a war room right now ? ! ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 02:00:43 ( CDT )</div>
+<p class="from-me">Does doing occasional zoom calls while drinking fruity cocktails at the Four Seasons count ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 02:16:42 ( CDT )</div>
+<p class="from-them">Ⓡ</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 15:34:33 ( CDT )</div>
+<p class="from-them">https://twitter.com/iason/status/1515427935263490053?s=10&t=4rQ JIDXCDtHhOaXdGHJ5
+8</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 15:34:33 ( CDT )</div>
+<p class="from-them">I'm starting a DAO</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 15:35:31 ( CDT )</div>
+<p class="from-them">Money goes to buy twitter shares , if you don't wine money goes to open source twitter
+competitor @</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-16 16:05:22 ( CDT )</div>
+<p class="from-me">Liked " Money goes to buy twitter shares , if you don't wine money goes to open source
+twitter competitor "</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:03:38 ( CDT )</div>
+<p class="from-me">I will be universally beloved , since it is so easy to please everyone on twitter</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:04:30 ( CDT )</div>
+<p class="from-them">It feels like everyone wants the same exact thing , and they will be patient and understanding
+of any changes ... Twitter Stans are a reasonable , good faith bunch</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:06:51 ( CDT )</div>
+<p class="from-them">These dipshits spent a years on twitter blue to give people exactly .... Nothing they want !</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:07:10 ( CDT )</div>
+<p class="from-them">Splitting revenue with video creators like YouTube could be huge unlock</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:07:28 ( CDT )</div>
+<p class="from-them">We could literally give video creators 100 % of their ad revenue up to $ 1m then do split</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:07:31 ( CDT )</div>
+<p class="from-me">Absolutely</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:17:25 ( CDT )</div>
+<p class="from-them">5 Teams : 5 Northstar metrics 1. Legacy Opps : uptime , speed 2. Membership team : remove
+bots while getting users to pay for " Real Name Memberships " $ 5 a month $ 50 a year .
+Includes 24 hours response to customer service 3. Payments : % of users that have connected
+a bank account / made a deposit 4. Creator Team : get creators to publish to twitter first
+( musicians , YouTubers , tiktokers , etc ) by giving them the best % split in the industry ( and
+promotion ) 5. Transparency Team : make the Algorithm & Moderation understandable and
+fair</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:18:49 ( CDT )</div>
+<p class="from-them">I think those are the 5 critical pieces ... everyone agrees to " year one " sprint , including coming
+back to offices within the first 60 days ( unless given special dispensation for extraordinary
+contribution )</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:19:22 ( CDT )</div>
+<p class="from-them">Hard Reboot the organization</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:20:09 ( CDT )</div>
+<p class="from-them">Feels like no one is setting priorities ruthlessly .. 12,000 working on whatever they want ? ! ? No
+projects being cancelled ?!</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:21:12 ( CDT )</div>
+<p class="from-them">Move HQ to Austin , rent gigafactory excess space</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:24:10 ( CDT )</div>
+<p class="from-me">Want to be a strategic advisor if this works out ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:25:06 ( CDT )</div>
+<p class="from-them">100 %</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:25:29 ( CDT )</div>
+<p class="from-them">Board member , advisor , whatever ... you have my sword</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:25:35 ( CDT )</div>
+<p class="from-me">Loved " Board member , advisor , whatever ... you have my sword "</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:26:17 ( CDT )</div>
+<p class="from-them">If 2 , 3 or 4 unlock they are each 250b + markets</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:26:41 ( CDT )</div>
+<p class="from-them">Payments is $ 250-500b , YouTube / creators is $ 250b +</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:28:31 ( CDT )</div>
+<p class="from-them">Membership no one has tried really .... So hard to estimate . 1-5m paid members maybe @
+$ 50-100 a year ? 250k corporate memberships @ 10k a year ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:36:33 ( CDT )</div>
+<p class="from-me">You are a mind reader</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:40:44 ( CDT )</div>
+<p class="from-them">Put me in the game coach !</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:40:48 ( CDT )</div>
+<p class="from-them">a</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:41:29 ( CDT )</div>
+<p class="from-them">Twitter CEO is my dream job</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:43:39 ( CDT )</div>
+<p class="from-them">https://apple.news/AIDqUaC24Sguyc959krWlig</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:43:39 ( CDT )</div>
+<p class="from-them">we should get Mr Beast to create for twitter ... we need to win the next two generations
+( millennials and Z are " meh " on twitter )</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-23 21:56:38 ( CDT )</div>
+<p class="from-me">For sure</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 14:21:03 ( CDT )</div>
+<p class="from-me">Hell yeah !!</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 14:21:26 ( CDT )</div>
+<p class="from-me">It will take a few months for the deal to complete before I'm actually in control</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 15:12:00 ( CDT )</div>
+<p class="from-them">Just had the best idea ever for monetization ... if you pay .01 per follower per year , you can
+DM all your followers up to 1x a day .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 15:12:22 ( CDT )</div>
+<p class="from-them">500,000 follows = $ 5,000 and 1 DM them when I have new podcast episode , or I'm doing an
+event ... or my new book comes out</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 15:14:37 ( CDT )</div>
+<p class="from-them">And let folks slice and dice .... so , you could DM all your twitter followers in Berlin and invite
+them to the GigaRave</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 15:14:55 ( CDT )</div>
+<p class="from-them">Oh my lord this would unlock the power of Twitter and goose revenue massively .... Who
+wouldn't pay for this ! ? ! ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 15:15:37 ( CDT )</div>
+<p class="from-them">and if you over use the tool and are annoying folks would unfollow you ... so it's got a built in
+safe guard ( unlike email spam )</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-25 15:16:11 ( CDT )</div>
+<p class="from-them">Imagine we ask Justin Beaver to come back and let him DM his fans ... he could sell $ 10m in
+merchandise or tickets instantly , Would be INSANE for power users and companies</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:32:48 ( CDT )</div>
+<p class="from-them">https://twitter.com/elonmusk/status/1521158715193315328?s=10&t=ghtc On6KY9B9C4VtlIFIO</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:32:48 ( CDT )</div>
+<p class="from-them">on thing you can do in this regard is an SPV of 250 folks capped at $ 10m .. pain on the next for a
+large company , but one item on cap table</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:33:00 ( CDT )</div>
+<p class="from-them">You do have to have someone lead / manage the SPV</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:34:53 ( CDT )</div>
+<p class="from-me">Go ahead</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:42:30 ( CDT )</div>
+<p class="from-them">Liked " Go ahead "</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:43:04 ( CDT )</div>
+<p class="from-them">When you're private its fairly easy to do , but I think current shareholders have to re - up</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:47:16 ( CDT )</div>
+<p class="from-me">Are you sure ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:51:13 ( CDT )</div>
+<p class="from-them">I am not</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:51:21 ( CDT )</div>
+<p class="from-them">Have never done a take private</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-02 11:52:09 ( CDT )</div>
+<p class="from-them">Large shareholders ( QPs ) are likely different than non - accredited investors</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:18:52 ( CDT )</div>
+<p class="from-me">What's going on with you marketing an SPV to randos ? This is not ok .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:22:58 ( CDT )</div>
+<p class="from-them">Not randos , I have the largest angel syndicate and that's how I invest . We've done 250+ deals like
+this and we know all the folks . I though that was how folks were doing it .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:23:28 ( CDT )</div>
+<p class="from-them">$ 100m + on commitments , but if that not ok it's fine . Just wanted to support the effort .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:25:46 ( CDT )</div>
+<p class="from-them">~ 300 QPs and 200 accredited investors said they would do it . It's not an open process obviously ,
+only folks already in our syndicate .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:28:30 ( CDT )</div>
+<p class="from-them">There is * massive demand to support your effort btw ... people really want to see you win .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:30:30 ( CDT )</div>
+<p class="from-me">Morgan Stanley and Jared think you are using our friendship not in a good way</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:31:12 ( CDT )</div>
+<p class="from-me">This makes it seem like I'm desperate .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:31:17 ( CDT )</div>
+<p class="from-me">Please stop</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:31:48 ( CDT )</div>
+<p class="from-them">Only ever want to support you .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:37:49 ( CDT )</div>
+<p class="from-them">Clearly you're not desperate - you have the worlds greatest investors voting in support of a deal
+you already have covered . you're overfunded . will quietly cancel it ... And to be clear , I'm not out
+actively soliciting folks . These are our exiting LPs not rondos . Sorry for any trouble</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:55:14 ( CDT )</div>
+<p class="from-me">Morgan Stanley and Jared are very upset</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:55:55 ( CDT )</div>
+<p class="from-them">Ugh</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:58:44 ( CDT )</div>
+<p class="from-them">SPVs are how everyone is doing there deals now ... Luke loved to SPVS etc</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 19:59:13 ( CDT )</div>
+<p class="from-them">Just trying to support you ... obviously . I reached out to Jared and sort it out .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 20:00:53 ( CDT )</div>
+<p class="from-them">* moved</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 20:01:54 ( CDT )</div>
+<p class="from-me">Yes , I had to ask him to stop .</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 20:06:45 ( CDT )</div>
+<p class="from-me">Liked " Just trying to support you ... obviously . I reached out to Jared and sort it out . "</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 22:49:00 ( CDT )</div>
+<p class="from-them">Cleaned it up with Jared</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 22:49:12 ( CDT )</div>
+<p class="from-me">Liked " Cleaned it up with Jared "</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 22:49:58 ( CDT )</div>
+<p class="from-them">I get where he is coming from .... Candidly , This deal has just captures the worlds imagination in an
+unimaginable way . It's bonkers ....</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 22:51:42 ( CDT )</div>
+<p class="from-them">And you know I'm ride or die brother - I'd jump on a grande for you</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-05-12 22:51:49 ( CDT )</div>
+<p class="from-me">Loved " And you know I'm ride or die brother - I'd jump on a grande for you "</p>
+
+                    </div>
+                    
+                    </div>
+  
+              </div>
+
+        </div>
+
+        
+        <div class="hidden lg:flex w-1/2 text-white">
+            <div class="flex flex-col w-full p-3 m-6 bg-grey-100">
+                <div class="text-md font-bold">Highlights</div>
+                <a href="../d/36" class="p-4 hover:bg-gray-900 border-gray-300 rounded-md my-4 border">
+                    <h3 class="font-bold">🎉 Joe Rogan Messages About a Party 🎉</h3>
+                    <p class="text-sm">Read</p>
+                <a>
+                <a href="../d/18" class="p-4 hover:bg-gray-900 border-gray-300 rounded-md my-4 border">
+                    <h3 class="font-bold">Goofin with Gayle King</h3>
+                    <p class="text-sm">Read</p>
+                <a>
+            </div>
+        </div>
+
+    </div>
+
+    
+  </body>
+</html>

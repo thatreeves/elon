@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Musk Message</title>
+    <link rel="stylesheet" href="../dist/output.css">
+    <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet">
+  </head>
+  <body class="bg-gray-800">
+  <nav class="flex flex-col justify-center w-full text-white bg-gray-900">
+        <a href="/">
+            <h1 class="text-lg font-bold text-center my-2">Elon's iMessages</h1>
+        </a>
+        <p class="mb-10 text-sm text-center md:hidden">We've aimed to be as accurate as possible, but we can't guarantee accuracy or validity. Also, some of the documents were redacted, so some messages don't make sense. </p>
+    </nav>
+    <div class="w-full max-w-screen-lg mx-auto flex flex-row mt-4">
+
+    <div class="flex w-full min-h-[90vh] max-w-[600px]  lg:w-1/2">
+            <div class="flex w-full max-w-[600px] ">
+                
+                <div class="flex imessage w-full pt-0">
+                    <div class="w-full flex flex-col sticky top-0 z-50 bg-blend-screen backdrop-blur-sm bg-white/90 pt-4 pb-2 text-base border-b">
+                        <div class="w-full flex flex-col self-center">
+                            <div class="flex font-bold self-center text-base p-0 m-0 font-['SF Pro Display']">Bret Taylor, Parag</div>
+                        </div>
+                        <div class="w-full flex flex-row justify-between">
+                            <div class="flex max-w-[40px]"><a href="./../"><img  src="../img/Arrow.png" /></a></div>
+                            <div class="flex max-w-[30px] flex-col justify-center"><div><img  src="../img/Facetime.png" /></a></div></div>
+                        </div>
+                    </div>
+
+                    <div class="flex w-full flex-col">
+                        
+<div class="text-xs text-grey-600 mt-2"><span>Parag - </span>2022-03-30 11:22:26 ( CDT )</div>
+<p class="from-them">Look forward to meeting soon ! Can you let us know when you are able to meet in the Bay
+Area in the next couple of days ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 00:09:56 ( CDT )</div>
+<p class="from-me">I land in San Jose tomorrow around 2pm and depart around midnight . My Tesla meetings are
+flexible , so I can meet anytime in those 10 hours .</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 06:38:41 ( CDT )</div>
+<p class="from-them">By " tomorrow " do you mean Thursday or Friday ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 06:40:23 ( CDT )</div>
+<p class="from-me">Today</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Parag - </span>2022-03-31 07:00:35 ( CDT )</div>
+<p class="from-them">I can make any time in those 10 hours work .</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 07:05:28 ( CDT )</div>
+<p class="from-them">I land in Oakland at 8:30 pm . Perhaps we can meet at 9:30 pm somewhere ? I am working to
+see if I can move up my flight from NYC to land earlier in the meantime</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 07:24:39 ( CDT )</div>
+<p class="from-them">Working on landing earlier and landing in San Jose so we can have dinner near you . Will keep
+you both posted in real time</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 08:17:43 ( CDT )</div>
+<p class="from-them">Ok , successfully moved my flight to land at 6:30 pm in San Jose . Working on a place we can
+meet privately</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 12:29:28 ( CDT )</div>
+<p class="from-me">Sounds good</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 15:23:49 ( CDT )</div>
+<p class="from-me">Crypto spam on Twitter really needs to get crushed . It's a major blight on the user experience
+and they scam so many innocent people .</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 17:25:52 ( CDT )</div>
+<p class="from-them">It sounds like we are confirming 7pm at a private residence near San Jose . Our assistants
+reached out to Jehn on logistics . Let me know if either of you have any concerns or want to
+move things around . Looking forward to our conversation .</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Parag - </span>2022-03-31 17:50:42 ( CDT )</div>
+<p class="from-them">Works for me . Excited to see you both in person !</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 19:19:41 ( CDT )</div>
+<p class="from-me">Jehn had a baby and I decided to try having no assistant for a few months</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 19:19:47 ( CDT )</div>
+<p class="from-me">Likewise</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 19:22:06 ( CDT )</div>
+<p class="from-them">The address is</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 19:22:27 ( CDT )</div>
+<p class="from-them">Does 7pm work for you Elon ?</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 19:28:19 ( CDT )</div>
+<p class="from-me">Probably close to that time . Might only be able to get there by 7:30 , but will try for earlier .</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 19:30:01 ( CDT )</div>
+<p class="from-them">Sounds good . I am going to be a bit early because my plane is landing earlier but free all
+evening so we can start whenever you get there and Parag and I can catch up in the meantime</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 21:01:08 ( CDT )</div>
+<p class="from-them">This wins for the weirdest place I've had a meeting recently . I think they were looking for an
+airbnb near the airport and there are tractors and donkeys</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 21:01:26 ( CDT )</div>
+<p class="from-me">Haha awesome</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 21:02:17 ( CDT )</div>
+<p class="from-me">Maybe Airbnb's algorithm thinks you love tractors and donkeys ( who doesn't ! )</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 21:02:42 ( CDT )</div>
+<p class="from-me">On my way . There in about 15 mins .</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 21:05:33 ( CDT )</div>
+<p class="from-them">And abandoned trucks in case we want to start a catering business after we meet</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-03-31 21:09:56 ( CDT )</div>
+<p class="from-me">Sounds like a post - apocalyptic movie set</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-03-31 21:10:18 ( CDT )</div>
+<p class="from-them">Basically yes</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-01 00:47:28 ( CDT )</div>
+<p class="from-me">Great dinner :)</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Bret Taylor - </span>2022-04-01 00:48:39 ( CDT )</div>
+<p class="from-them">Really great . The donkeys and dystopian surveillance helicopters added to the ambiance</p>
+
+<div class="text-xs text-grey-600 mt-2">2022-04-01 01:08:52 ( CDT )</div>
+<p class="from-me">Definitely one for the memory books haha</p>
+
+<div class="text-xs text-grey-600 mt-2"><span>Parag - </span>2022-04-01 01:55:20 ( CDT )</div>
+<p class="from-them">Memorable for multiple reasons . Really enjoyed it</p>
+
+                    </div>
+                    
+                    </div>
+  
+              </div>
+
+        </div>
+
+        
+        <div class="hidden lg:flex w-1/2 text-white">
+            <div class="flex flex-col w-full p-3 m-6 bg-grey-100">
+                <div class="text-md font-bold">Highlights</div>
+                <a href="../d/36" class="p-4 hover:bg-gray-900 border-gray-300 rounded-md my-4 border">
+                    <h3 class="font-bold">🎉 Joe Rogan Messages About a Party 🎉</h3>
+                    <p class="text-sm">Read</p>
+                <a>
+                <a href="../d/18" class="p-4 hover:bg-gray-900 border-gray-300 rounded-md my-4 border">
+                    <h3 class="font-bold">Goofin with Gayle King</h3>
+                    <p class="text-sm">Read</p>
+                <a>
+            </div>
+        </div>
+
+    </div>
+
+    
+  </body>
+</html>
